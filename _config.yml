@@ -25,9 +25,24 @@ github_username:  miauhaus
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 # theme: minima
 # plugins:
   # - jekyll-feed
+
+# collections_dir: colections
+
+collections:
+  - papers
+  - courses
+  - news
+
+safe: true
+encoding: utf-8
+
+
+# error_mode
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
