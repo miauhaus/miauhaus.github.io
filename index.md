@@ -21,11 +21,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 #### Contact ####
-
-{% for user in site.data.contributors %}
-- {{user.name}}
-- links
-  {% for link in user.links %}
-  - {{link}}
-  {% endfor %}
-{% endfor %}
