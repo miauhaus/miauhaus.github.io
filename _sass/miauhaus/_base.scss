@@ -8,28 +8,6 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-
-
-/**
- * Basic styling
- */
-body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color;
-  background-color: $background-color;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
-     -moz-font-feature-settings: "kern" 1;
-       -o-font-feature-settings: "kern" 1;
-          font-feature-settings: "kern" 1;
-  font-kerning: normal;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
-
-
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -40,16 +18,12 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-
-
 /**
  * `main` element
  */
 main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
-
-
 
 /**
  * Images
@@ -59,8 +33,6 @@ img {
   vertical-align: middle;
 }
 
-
-
 /**
  * Figures
  */
@@ -69,10 +41,8 @@ figure > img {
 }
 
 figcaption {
-  font-size: $small-font-size;
+  font-size: 0.8rem;
 }
-
-
 
 /**
  * Lists
@@ -88,16 +58,12 @@ li {
   }
 }
 
-
-
 /**
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
-
-
 
 /**
  * Links
@@ -114,16 +80,7 @@ a {
     color: $text-color;
     text-decoration: underline;
   }
-
-  .social-media-list &:hover {
-    text-decoration: none;
-
-    .username {
-      text-decoration: underline;
-    }
-  }
 }
-
 
 /**
  * Blockquotes
@@ -132,7 +89,7 @@ blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
   padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
+  font-size: 1.3rem;
   letter-spacing: -1px;
   font-style: italic;
 
@@ -141,14 +98,12 @@ blockquote {
   }
 }
 
-
-
 /**
  * Code formatting
  */
 pre,
 code {
-  @include relative-font-size(0.9375);
+  font-size: 1rem;
   border: 1px solid $grey-color-light;
   border-radius: 3px;
   background-color: #eef;
@@ -169,28 +124,6 @@ pre {
   }
 }
 
-
-
-/**
- * Wrapper
- */
-.wrapper {
-  max-width: -webkit-calc(#{$max-content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$max-content-width} - (#{$spacing-unit} * 2));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
-  @extend %clearfix;
-
-  @include media-query($desktop) {
-    max-width: -webkit-calc(#{$max-content-width} - (#{$spacing-unit}));
-    max-width:         calc(#{$max-content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-  }
-}
-
 /**
  * Clearfix
  */
@@ -200,12 +133,9 @@ pre {
   clear: both;
 }
 
-
-
 /**
  * Icons
  */
-
 .svg-icon {
     width: 16px;
     height: 16px;
@@ -220,8 +150,6 @@ pre {
     padding-top: 5px;
   }
 }
-
-
 
 /**
  * Tables

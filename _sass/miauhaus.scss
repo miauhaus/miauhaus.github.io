@@ -3,16 +3,15 @@
 // Define defaults for each variable.
 
 $base-font-family: 'Arimo', sans-serif !default;
-$base-font-size:   16px !default;
+$base-font-size:   10px !default;
 $base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
+$base-line-height: 1 !default;
 
 $spacing-unit:     30px !default;
 
 $text-color:       rgb(211, 208, 200) !default;
 $background-color: #2E2E2E !default;
-$brand-color:      #2a7ae2 !default;
+$brand-color:      rgb(109, 171, 199) !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -21,7 +20,7 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$max-content-width:    800px !default;
+$max-content-width:    1280px !default;
 
 $mobile:          600px !default;
 $desktop:        800px !default;
@@ -39,12 +38,12 @@ $desktop:        800px !default;
   }
 }
 
-@mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
-}
-
 // Import partials.
 @import
   "miauhaus/base",
+  "miauhaus/footer",
+  "miauhaus/header",
+  "miauhaus/page",
+  "miauhaus/post",
   "miauhaus/layout"
 ;
