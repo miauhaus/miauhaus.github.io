@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: post
 title: MiauXI Exposition
 thumbnail: some image
 date: 2018-10-13 13:43
