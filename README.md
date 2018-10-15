@@ -76,6 +76,7 @@ thumbnail: <<your thumnail url>>
 author: <<your name>>
 language: << ISO 639-1 language code>>
 date: << YYYY-MM-DD HH:MM >>
+link: << optional >>
 ---
 ```
 
@@ -105,6 +106,7 @@ thumbnail: <<your thumnail url 1280px x 128px>>
 author: <<your name>>
 language: << ISO 639-1 language code>>
 date: << YYYY-MM-DD HH:MM >>
+link: << optional >>
 ---
 ```
 5. add your content using markdown syntax and commit your changes. this will save a version of your file, you can come back to edit later
@@ -133,6 +135,7 @@ thumbnail: <<your thumnail url 1280px x 128px>>
 author: <<your name>>
 language: << ISO 639-1 language code>>
 date: << YYYY-MM-DD HH:MM >>
+link: << optional >>
 ---
 ```
 5. add your content using markdown syntax and commit your changes. this will save a version of your file, you can come back to edit later
