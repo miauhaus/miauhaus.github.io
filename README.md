@@ -66,7 +66,20 @@ quick guides
 
 4. name your file with the short title for your article, .md, use [kebab case](http://wiki.c2.com/?KebabCase)
 
-5. edit your file and commit your changes. this will save a version of your file, you can come back to edit later
+>add the following data at the beggining of the file:
+```
+---
+layout: research
+title: <<your title>>
+description: <<your description>>
+thumbnail: <<your thumnail url>>
+author: <<your name>>
+language: << ISO 639-1 language code>>
+date: << YYYY-MM-DD HH:MM >>
+---
+```
+
+5. add your content using markdown syntax and commit your changes. this will save a version of your file, you can come back to edit later
 ![](https://i.postimg.cc/D0Q9TytD/Screen-Shot-2018-10-15-at-02-20-43.png)
 
 6. when you are happy with the result, make a pull request, as explained below.
@@ -74,11 +87,60 @@ quick guides
 > Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/)
 
 ### add news
+1. On your fork, click on `branch` and create a new branch with the name of your research article
 
-yyyy-mm-dd-title
-1280px x 128px
+2. with the branch selected, click on the `_posts` folder
+
+3. click on `create new file`
+
+4. name your file following this format `yyyy-mm-dd-title` , .md, use [kebab case](http://wiki.c2.com/?KebabCase)
+
+>add the following data at the beggining of the file:
+```
+---
+layout: post
+title: <<your title>>
+description: <<your description>>
+thumbnail: <<your thumnail url 1280px x 128px>>
+author: <<your name>>
+language: << ISO 639-1 language code>>
+date: << YYYY-MM-DD HH:MM >>
+---
+```
+5. add your content using markdown syntax and commit your changes. this will save a version of your file, you can come back to edit later
+
+6. when you are happy with the result, make a pull request, as explained below.
+
+> Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/)
 
 ### add courses
+
+. On your fork, click on `branch` and create a new branch with the name of your research article
+
+2. with the branch selected, click on the `_courses` folder
+
+3. click on `create new file`
+
+4. name your file with the title for your course, .md, use [kebab case](http://wiki.c2.com/?KebabCase)
+
+>add the following data at the beggining of the file:
+```
+---
+layout: course
+title: <<your title>>
+description: <<your description>>
+thumbnail: <<your thumnail url 1280px x 128px>>
+author: <<your name>>
+language: << ISO 639-1 language code>>
+date: << YYYY-MM-DD HH:MM >>
+---
+```
+5. add your content using markdown syntax and commit your changes. this will save a version of your file, you can come back to edit later
+
+6. when you are happy with the result, make a pull request, as explained below.
+
+> Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/)
+
 
 ### make a pull request
 
@@ -87,6 +149,8 @@ yyyy-mm-dd-title
 
 2. review the data and click on create pull request
 ![](https://i.postimg.cc/zB2Lk8ds/Screen-Shot-2018-10-15-at-02-29-52.png)
+
+3. wait for miauhaus feedback
 
 contributors
 ---
