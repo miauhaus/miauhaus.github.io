@@ -1,0 +1,17 @@
+encoding: utf-8
+title: miauhaus
+email: miau.etsam@gmail.com
+description: >- # ignore newlines until "baseurl:"
+  miauhaus is an open research community based at madrid
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  miauhaus
+
+safe: true
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+collections:
+  - courses
+  - research
