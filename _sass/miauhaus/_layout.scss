@@ -23,6 +23,19 @@ h4 {
   line-height: 45px;
 }
 
+.thumbnails {
+  list-style: none;
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin:0;
+  li {
+    margin: $spacing-unit;
+  }
+}
+
 /**
  * Wrapper
  */
