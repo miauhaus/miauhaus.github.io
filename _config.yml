@@ -13,5 +13,7 @@ kramdown:
   parse_block_html: true
 
 collections:
-  - courses
-  - research
+  courses:
+    output: true
+  research:
+    output: true
