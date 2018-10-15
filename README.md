@@ -48,9 +48,30 @@ we [chat]()
 quick guides
 ---
 ### fork the repository
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+1. create a github account
+2. go to [miauhaus github](https://github.com/miauhaus)
+3. Press `fork!`
+![](https://i.postimg.cc/nFCPKTwm/Screen-Shot-2018-10-15-at-02-01-55.png)
 
-### add a paper
+### add a research article
+
+1. On your fork, click on `branch` and create a new branch with the name of your research article
+![](https://i.postimg.cc/L54qthBB/Screen-Shot-2018-10-15-at-02-11-24.png)
+
+2. with the branch selected, click on the `_research` folder
+![](https://i.postimg.cc/1tXhDQVV/Screen-Shot-2018-10-15-at-02-13-37.png)
+
+3. click on `create new file`
+![](https://i.postimg.cc/MTLkDF1P/Screen-Shot-2018-10-15-at-02-14-21.png)
+
+4. name your file with the short title for your article, .md, use [kebab case](http://wiki.c2.com/?KebabCase)
+
+5. edit your file and commit your changes. this will save a version of your file, you can come back to edit later
+![](https://i.postimg.cc/D0Q9TytD/Screen-Shot-2018-10-15-at-02-20-43.png)
+
+6. when you are happy with the result, make a pull request, as explained below.
+
+> Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/)
 
 ### add news
 
@@ -59,7 +80,13 @@ yyyy-mm-dd-title
 
 ### add courses
 
-### edit current content
+### make a pull request
+
+1. go to your github fork, and select `compare & pull request` from the main page, for the branch you want to merge.
+![](https://i.postimg.cc/MGxj6sMF/Screen-Shot-2018-10-15-at-02-27-08.png)
+
+2. review the data and click on create pull request
+![](https://i.postimg.cc/zB2Lk8ds/Screen-Shot-2018-10-15-at-02-29-52.png)
 
 contributors
 ---
