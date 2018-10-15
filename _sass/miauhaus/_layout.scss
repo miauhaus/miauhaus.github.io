@@ -10,12 +10,17 @@ body {
   min-height: 100vh;
 }
 
+p {
+  font-size: 1.6rem;
+}
+
 h4 {
   font-size: 3.4rem;
   border-top: solid;
   border-bottom: solid;
   border-width: 1px;
   border-color: $text-color;
+  line-height: 45px;
 }
 
 /**

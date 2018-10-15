@@ -54,7 +54,8 @@ quick guides
 
 ### add news
 
-### add posts
+yyyy-mm-dd-title
+1280px x 128px
 
 ### add courses
 
