@@ -1,7 +1,12 @@
 ---
 layout: research
-thumbnail: someimage
 title: Organic Architecture
+description: <<your description>>
+thumbnail: someimage
+author: <<your name>>
+language: << ISO 639-1 language code>>
+date: 2018-10-10 00:00
+link: << optional >>
 ---
 Lorem fistrum al ataquerl pupita amatomaa apetecan se calle ustée jarl fistro. La caidita al ataquerl fistro benemeritaar llevame al sircoo ese hombree condemor sexuarl benemeritaar papaar papaar me cago en tus muelas. De la pradera de la pradera a wan pupita sexuarl a gramenawer al ataquerl a peich a peich condemor a peich. Me cago en tus muelas se calle ustée papaar papaar está la cosa muy malar me cago en tus muelas papaar papaar no puedor no te digo trigo por no llamarte Rodrigor benemeritaar tiene musho peligro torpedo. Fistro a gramenawer fistro ese pedazo de te voy a borrar el cerito.
 

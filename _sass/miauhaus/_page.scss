@@ -1,34 +1,12 @@
-/**
- * Page content
- */
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  img{
+    margin: $spacing-unit auto;
+    display: block;
+  }
 }
 
 .page-heading {
   font-size: 2rem;
-}
-
-.post-list-heading {
-  font-size: 1.75srem;
-}
-
-.post-list {
-  margin-left: 0;
-  list-style: none;
-
-  > li {
-    margin-bottom: $spacing-unit;
-  }
-}
-
-.post-meta {
-  font-size: 0.8rem;
-  color: $grey-color;
-}
-
-.post-link {
-  display: block;
-  font-size: 1.5rem;
 }
