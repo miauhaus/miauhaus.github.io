@@ -4,9 +4,31 @@ An opensource website for an opensource miauhaus
 
 [miauhaus]() is an open research community
 
+our mission is to enjoy sharing and creating knowledge
+
+We are open to contributions that follow our conditions:
+
+Responsibility – You take responsibility for your contributions (since we only host your content)
+
+Civility – You support a civil environment and do not harass other users
+
+Lawful Behavior – You do not violate copyright or other laws
+
+No Harm – You do not harm our technology infrastructure, or other users
+
+Terms of Use and Policies – You adhere to the below Terms of Use and to the applicable community policies when you visit our sites or participate in our communities
+
+> All the data is public by design, no sensible data will be published, nor stored.
+
 licensing
 ---
 Each contributor owns it's contribution, and it's responsible of it
+
+This is a publishing platform. Every contribution will published
+
+The community keeps the right to decide weather or not to accept each contribution
+
+Once accepted the content will published on the site, you can unplublish the content any time, by contacting us at `hey@miauhaus.org`
 
 All content published is licensed with a [creative-commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -77,6 +99,7 @@ author: <<your name>>
 language: << ISO 639-1 language code>>
 date: << YYYY-MM-DD HH:MM >>
 link: << optional >>
+sections: [] << optional >>
 ---
 ```
 
@@ -107,6 +130,7 @@ author: <<your name>>
 language: << ISO 639-1 language code>>
 date: << YYYY-MM-DD HH:MM >>
 link: << optional >>
+sections: [] << optional >>
 ---
 ```
 5. add your content using markdown syntax and commit your changes. this will save a version of your file, you can come back to edit later
@@ -117,7 +141,7 @@ link: << optional >>
 
 ### add courses
 
-. On your fork, click on `branch` and create a new branch with the name of your research article
+1. On your fork, click on `branch` and create a new branch with the name of your research article
 
 2. with the branch selected, click on the `_courses` folder
 
@@ -136,6 +160,7 @@ author: <<your name>>
 language: << ISO 639-1 language code>>
 date: << YYYY-MM-DD HH:MM >>
 link: << optional >>
+sections: [] << optional >>
 ---
 ```
 5. add your content using markdown syntax and commit your changes. this will save a version of your file, you can come back to edit later
@@ -158,3 +183,14 @@ link: << optional >>
 contributors
 ---
 
+devs
+---
+The website it's super simple an flexible for evolution, uses [jekyll](jekyll.com) and [gh pages]() with almost no client side scripting, zero database. It embraces github as a collaboration platform
+
+For localhosting, you can clone it and after installing ruby and jekyll you should be able to `jekyll serve` or `jekyll build`
+
+builds will be saved at `_site`, all the styles will be located at `_sass`, there is no javascript yet and we are not usign any jekyll plugins.
+
+open for contributions
+
+keep it simple
