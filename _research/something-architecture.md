@@ -2,7 +2,7 @@
 layout: research
 title: Something Architecture
 description: <<your description>>
-thumbnail: someimage
+thumbnail: 
 author: <<your name>>
 language: << ISO 639-1 language code>>
 date: 2018-10-10 00:00

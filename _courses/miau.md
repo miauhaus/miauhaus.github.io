@@ -2,7 +2,7 @@
 layout: course
 title: miau
 description: Master in Computational design
-thumbnail: assets/logo-miau.png
+thumbnail: assets/miau_logo.svg
 author: miauhaus
 language: en
 date: 2018-10-01 00:00

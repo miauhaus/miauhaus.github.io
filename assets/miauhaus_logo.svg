@@ -1,17 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1805.4 325.5" style="enable-background:new 0 0 1805.4 325.5;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;}
-	.st1{fill:#020203;}
-	.st2{font-family:'TinyRegular';}
-	.st3{font-size:300px;}
-</style>
-<g id="Capa_1">
-</g>
-<g id="Capa_2">
-	<rect x="0" y="50" class="st0" width="1805.4" height="275.5"/>
-	<text transform="matrix(1 0 0 1 102.6857 249.9986)" class="st1 st2 st3">miauhaus</text>
-</g>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="1.1"
+  xml:space="preserve"
+  x="0px" y="0px"
+  fill="#d3d0c8"
+  viewBox="0 0 1805.4 325.5"
+  style="zoom: 1;">
+  <path class="st2" d="M102.7,250 V100 h100 v50 h-50 v100 H102.7 z M202.7,150 h50 v100 h-50 V150 z M252.7,150 v-50 h50 v50 H252.7 z M302.7,250 V150 h50 v100 H302.7 z"></path>
+  <path class="st2" d="M402.7,100 V50 h50 v50 H402.7 z M402.7,250 V150 h50 v100 H402.7 z"></path>
+  <path class="st2" d="M552.7,150 v50 h-50 v-50 H552.7 z M552.7,250 v-50 h50 v-50 h-50 v-50 h100 v150 H552.7 z"></path>
+  <path class="st2" d="M752.7,200 h-50 V100 h50 V200 z M852.7,100 v150 h-100 v-50 h50 V100 H852.7 z"></path>
+  <path class="st2" d="M902.7,250 V50 h50 v50 h50 v50 h-50 v100 H902.7 z M1002.7,150 h50 v100 h-50 V150 z"></path>
+  <path class="st2" d="M1152.7,150 v50 h-50 v-50 H1152.7 z M1152.7,250 v-50 h50 v-50 h-50 v-50 h100 v150 H1152.7 z"></path>
+  <path class="st2" d="M1352.7,200 h-50 V100 h50 V200 z M1452.7,100 v150 h-100 v-50 h50 V100 H1452.7 z"></path>
+  <path class="st2" d="M1502.7,250 v-50 h50 V100 h100 v50 h-50 v100 H1502.7 z"></path>
 </svg>
