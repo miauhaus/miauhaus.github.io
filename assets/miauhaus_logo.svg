@@ -1,18 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-  version="1.1"
-  xml:space="preserve"
-  x="0px" y="0px"
-  fill="#d3d0c8"
-  viewBox="0 0 1805.4 325.5"
-  style="zoom: 1;">
-  <path class="st2" d="M102.7,250 V100 h100 v50 h-50 v100 H102.7 z M202.7,150 h50 v100 h-50 V150 z M252.7,150 v-50 h50 v50 H252.7 z M302.7,250 V150 h50 v100 H302.7 z"></path>
-  <path class="st2" d="M402.7,100 V50 h50 v50 H402.7 z M402.7,250 V150 h50 v100 H402.7 z"></path>
-  <path class="st2" d="M552.7,150 v50 h-50 v-50 H552.7 z M552.7,250 v-50 h50 v-50 h-50 v-50 h100 v150 H552.7 z"></path>
-  <path class="st2" d="M752.7,200 h-50 V100 h50 V200 z M852.7,100 v150 h-100 v-50 h50 V100 H852.7 z"></path>
-  <path class="st2" d="M902.7,250 V50 h50 v50 h50 v50 h-50 v100 H902.7 z M1002.7,150 h50 v100 h-50 V150 z"></path>
-  <path class="st2" d="M1152.7,150 v50 h-50 v-50 H1152.7 z M1152.7,250 v-50 h50 v-50 h-50 v-50 h100 v150 H1152.7 z"></path>
-  <path class="st2" d="M1352.7,200 h-50 V100 h50 V200 z M1452.7,100 v150 h-100 v-50 h50 V100 H1452.7 z"></path>
-  <path class="st2" d="M1502.7,250 v-50 h50 V100 h100 v50 h-50 v100 H1502.7 z"></path>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1805.4 325.5" style="fill:#d3d0c8">
+  <path class="st2" d="M102.7 250V100h100v50h-50v100H102.7zM202.7 150h50v100h-50V150zM252.7 150v-50h50v50H252.7zM302.7 250V150h50v100H302.7z"/>
+  <path class="st2" d="M402.7 100V50h50v50H402.7zM402.7 250V150h50v100H402.7z"/>
+  <path class="st2" d="M552.7 150v50h-50v-50H552.7zM552.7 250v-50h50v-50h-50v-50h100v150H552.7z"/>
+  <path class="st2" d="M752.7 200h-50V100h50V200zM852.7 100v150h-100v-50h50V100H852.7z"/>
+  <path class="st2" d="M902.7 250V50h50v50h50v50h-50v100H902.7zM1002.7 150h50v100h-50V150z"/>
+  <path class="st2" d="M1152.7 150v50h-50v-50H1152.7zM1152.7 250v-50h50v-50h-50v-50h100v150H1152.7z"/>
+  <path class="st2" d="M1352.7 200h-50V100h50V200zM1452.7 100v150h-100v-50h50V100H1452.7z"/>
+  <path class="st2" d="M1502.7 250v-50h50V100h100v50h-50v100H1502.7z"/>
 </svg>
