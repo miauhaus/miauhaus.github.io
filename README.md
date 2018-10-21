@@ -65,30 +65,17 @@ we embrace github [flow](https://guides.github.com/introduction/flow/)
 
 we are open to contributions
 
-we [chat]()
-
 quick guides
 ---
-### fork the repository
-1. create a github account
-2. go to [miauhaus github](https://github.com/miauhaus)
-3. Press `fork!`
-![](https://i.postimg.cc/nFCPKTwm/Screen-Shot-2018-10-15-at-02-01-55.png)
+### first:
+1. create a github account and login
+2. go to [miauhaus github](https://github.com/miauhaus/miauhaus.github.io)
 
-### add a research article
-
-1. On your fork, click on `branch` and create a new branch with the name of your research article
-![](https://i.postimg.cc/L54qthBB/Screen-Shot-2018-10-15-at-02-11-24.png)
-
-2. with the branch selected, click on the `_research` folder
-![](https://i.postimg.cc/1tXhDQVV/Screen-Shot-2018-10-15-at-02-13-37.png)
-
-3. click on `create new file`
-![](https://i.postimg.cc/MTLkDF1P/Screen-Shot-2018-10-15-at-02-14-21.png)
-
-4. name your file with the short title for your article, .md, use [kebab case](http://wiki.c2.com/?KebabCase)
-
->add the following data at the beggining of the file:
+### add/edit research articles
+1. go to `_research` folder
+2. click on `create new file` or open an existing one and click the pencil for editing
+3. Remember to name your file with the short title for your article, .md, use [kebab case](http://wiki.c2.com/?KebabCase)
+4.add the following data at the beggining of the file:
 ```
 ---
 layout: research
@@ -102,24 +89,15 @@ link: << optional >>
 sections: [] << optional >>
 ---
 ```
-
-5. add your content using markdown syntax and commit your changes. this will save a version of your file, you can come back to edit later
-![](https://i.postimg.cc/D0Q9TytD/Screen-Shot-2018-10-15-at-02-20-43.png)
-
-6. when you are happy with the result, make a pull request, as explained below.
-
+5. add your content using markdown syntax
+6. when you are happy with the result, `Propose file change` or `Propose new file`  and `create pull request`
 > Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/) and max-width for full width is 1280px
 
 ### add news
-1. On your fork, click on `branch` and create a new branch with the name of your research article
-
-2. with the branch selected, click on the `_posts` folder
-
-3. click on `create new file`
-
-4. name your file following this format `yyyy-mm-dd-title` , .md, use [kebab case](http://wiki.c2.com/?KebabCase)
-
->add the following data at the beggining of the file:
+1. go to `_posts` folder
+2. click on `create new file` or open an existing one and click the pencil for editing
+3. Remember name your file following this format `yyyy-mm-dd-title` , .md, use [kebab case](http://wiki.c2.com/?KebabCase)
+4. add the following data at the beggining of the file:
 ```
 ---
 layout: post
@@ -133,23 +111,15 @@ link: << optional >>
 sections: [] << optional >>
 ---
 ```
-5. add your content using markdown syntax and commit your changes. this will save a version of your file, you can come back to edit later
-
-6. when you are happy with the result, make a pull request, as explained below.
-
+5. add your content using markdown syntax
+6. when you are happy with the result, `Propose file change` or `Propose new file`  and `create pull request`
 > Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/) and max-width for full width is 1280px
 
 ### add courses
-
-1. On your fork, click on `branch` and create a new branch with the name of your research article
-
-2. with the branch selected, click on the `_courses` folder
-
-3. click on `create new file`
-
-4. name your file with the title for your course, .md, use [kebab case](http://wiki.c2.com/?KebabCase)
-
->add the following data at the beggining of the file:
+1. go to `_courses` folder
+2. click on `create new file` or open an existing one and click the pencil for editing
+3. name your file with the title for your course, .md, use [kebab case](http://wiki.c2.com/?KebabCase)
+4. add the following data at the beggining of the file:
 ```
 ---
 layout: course
@@ -163,27 +133,15 @@ link: << optional >>
 sections: [] << optional >>
 ---
 ```
-5. add your content using markdown syntax and commit your changes. this will save a version of your file, you can come back to edit later
-
-6. when you are happy with the result, make a pull request, as explained below.
-
+5. add your content using markdown syntax
+6. when you are happy with the result, `Propose file change` or `Propose new file`  and `create pull request`
 > Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/) and max-width for full width is 1280px
 
+### edit the home page
+1. open `index.md`
+2. when you are happy with the result, `Propose file change` or `Propose new file`  and `create pull request`
 
-### make a pull request
-
-1. go to your github fork, and select `compare & pull request` from the main page, for the branch you want to merge.
-![](https://i.postimg.cc/MGxj6sMF/Screen-Shot-2018-10-15-at-02-27-08.png)
-
-2. review the data and click on create pull request
-![](https://i.postimg.cc/zB2Lk8ds/Screen-Shot-2018-10-15-at-02-29-52.png)
-
-3. wait for miauhaus feedback
-
-contributors
----
-
-devs
+dev
 ---
 The website it's super simple an flexible for evolution, uses [jekyll](jekyll.com) and [gh pages]() with almost no client side scripting, zero database. It embraces github as a collaboration platform
 
