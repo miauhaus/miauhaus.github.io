@@ -59,28 +59,24 @@ Content must have the following metadata:
   - *language*
   - *date*
 
+sections
+
+
 colaboration
 ---
 we embrace github [flow](https://guides.github.com/introduction/flow/)
 
 we are open to contributions
 
-we [chat]()
-
 quick guides
 ---
 ### fork the repository
-1. create a github account
-2. go to [miauhaus github](https://github.com/miauhaus)
-3. Press `fork!`
-![](https://i.postimg.cc/nFCPKTwm/Screen-Shot-2018-10-15-at-02-01-55.png)
+1. create a github account and login
+2. go to [miauhaus github](https://github.com/miauhaus/miauhaus.github.io)
 
-### add a research article
+### add/edit research articles
 
-1. On your fork, click on `branch` and create a new branch with the name of your research article
-![](https://i.postimg.cc/L54qthBB/Screen-Shot-2018-10-15-at-02-11-24.png)
-
-2. with the branch selected, click on the `_research` folder
+2. go to `_research` folder
 ![](https://i.postimg.cc/1tXhDQVV/Screen-Shot-2018-10-15-at-02-13-37.png)
 
 3. click on `create new file`
@@ -170,6 +166,15 @@ sections: [] << optional >>
 > Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/) and max-width for full width is 1280px
 
 
+### edit existing content
+
+1. go to your github fork.
+2. create a branch
+3. edit `index.md` for editing home content, or existing `posts`, `courses`, or `research`.
+5. click on the pencil to edit the file
+4. save and commit
+5. make a pull request
+
 ### make a pull request
 
 1. go to your github fork, and select `compare & pull request` from the main page, for the branch you want to merge.
@@ -180,10 +185,15 @@ sections: [] << optional >>
 
 3. wait for miauhaus feedback
 
-contributors
----
+### update your fork
 
-devs
+1. go to your github fork, select `master` branch and select `compare & pull request` from the main page.
+2. invert the repository `after changing the first one, you should click compare across forks before changing the second one`
+3. `create pull request`
+4. name it `update fork`
+5. `merge`
+
+dev
 ---
 The website it's super simple an flexible for evolution, uses [jekyll](jekyll.com) and [gh pages]() with almost no client side scripting, zero database. It embraces github as a collaboration platform
 
