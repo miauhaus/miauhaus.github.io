@@ -33,7 +33,7 @@ $desktop:        800px !default;
 //   }
 // }
 @mixin media-query($device) {
-  @media screen and (max-width: $device) {
+  @media screen and (min-width: $device) {
     @content;
   }
 }
@@ -43,7 +43,10 @@ $desktop:        800px !default;
   "miauhaus/base",
   "miauhaus/footer",
   "miauhaus/header",
+  "miauhaus/layout",
   "miauhaus/page",
-  "miauhaus/post",
-  "miauhaus/layout"
+  "miauhaus/content",
+  "miauhaus/courses",
+  "miauhaus/research",
+  "miauhaus/post"
 ;

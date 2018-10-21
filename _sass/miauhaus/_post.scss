@@ -1,44 +1,19 @@
-/**
- * Posts
- */
-.post-header {
-  margin-bottom: $spacing-unit;
-}
-
-.post-title {
-  font-size: 2.6rem;
-  letter-spacing: -1px;
-  line-height: 1;
-
-  @include media-query($desktop) {
-    font-size: 2.25rem;
+.post {
+  .post-header {
+    margin-bottom: $spacing-unit;
   }
-}
-
-.post-content {
-  margin-bottom: $spacing-unit;
-
-  h2 {
-    font-size: 2rem;
-
+  
+  .post-title {
+    font-size: 2.6rem;
+    letter-spacing: -1px;
+    line-height: 1;
+  
     @include media-query($desktop) {
-      font-size: 1.75rem;
+      font-size: 2.25rem;
     }
   }
-
-  h3 {
-    font-size: 1.625rem;
-
-    @include media-query($desktop) {
-      font-size: 1.375rem;
-    }
-  }
-
-  h4 {
-    font-size: 1.25rem;
-
-    @include media-query($desktop) {
-      font-size: 1.125rem;
-    }
+  
+  .post-content {
+    margin-bottom: $spacing-unit;
   }
 }

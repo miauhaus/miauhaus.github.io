@@ -1,0 +1,69 @@
+p {
+  font-size: 1.6rem;
+}
+
+h1 {
+  font-size: 3.4rem;
+  font-weight: bold;
+  @include media-query($desktop) {
+    font-size: 1.75rem;
+  }
+}
+
+h2 {
+  font-size: 2rem;
+
+  @include media-query($desktop) {
+    font-size: 1.75rem;
+  }
+}
+h3 {
+  font-size: 1.625rem;
+
+  @include media-query($desktop) {
+    font-size: 1.375rem;
+  }
+}
+
+h4 {
+  font-size: 1.25rem;
+  @include media-query($desktop) {
+    font-size: 1.125rem;
+  }
+}
+
+img {
+  margin: $spacing-unit auto;
+  display: block;
+}
+
+.thumbnails {
+  list-style: none;
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin:0;
+  li {
+    margin: $spacing-unit;
+    height: 100px;
+    width: 100px;
+  }
+}
+
+.section {
+  border-top: solid;
+  border-bottom: solid;
+  border-width: 1px;
+  border-color: $text-color;
+  line-height: 45px;
+}
+
+.section-header {
+  border-top: solid;
+  border-bottom: solid;
+  border-width: 1px;
+  border-color: $text-color;
+  line-height: 45px;
+}
