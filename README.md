@@ -2,7 +2,7 @@ open miauhaus
 ===
 An opensource website for an opensource miauhaus
 
-[miauhaus]() is an open research community
+[miauhaus](https://miauhaus.github.io/) is an open research community
 
 our mission is to enjoy sharing and creating knowledge
 
