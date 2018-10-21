@@ -29,3 +29,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Contact
 {:.section}
+
+## Get in touch
+{:.centered}
+hey@miauhaus.com
+{:.centered}
+

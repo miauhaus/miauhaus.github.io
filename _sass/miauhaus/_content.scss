@@ -1,34 +1,35 @@
 p {
-  font-size: 1.6rem;
+  font-size: 1.1 rem;
+  @include media-query($desktop) {
+    font-size: 1.6rem;
+  }
 }
 
 h1 {
-  font-size: 3.4rem;
+  font-size: 1.75rem;
   font-weight: bold;
   @include media-query($desktop) {
-    font-size: 1.75rem;
+    font-size: 3.4rem;
   }
 }
 
 h2 {
-  font-size: 2rem;
-
+  font-size: 1.75rem;
   @include media-query($desktop) {
-    font-size: 1.75rem;
+    font-size: 2rem;
   }
 }
 h3 {
-  font-size: 1.625rem;
-
+  font-size: 1.375rem;
   @include media-query($desktop) {
-    font-size: 1.375rem;
+    font-size: 1.625rem;
   }
 }
 
 h4 {
-  font-size: 1.25rem;
+  font-size: 1.125rem;
   @include media-query($desktop) {
-    font-size: 1.125rem;
+    font-size: 1.25rem;
   }
 }
 
@@ -105,4 +106,8 @@ img {
 
 .filter {
   filter: invert(0.8) sepia(0.2);
+}
+
+.centered {
+  text-align: center;
 }
