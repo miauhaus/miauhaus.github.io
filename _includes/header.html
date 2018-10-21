@@ -8,7 +8,7 @@
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <div class="trigger">
           {%- for path in page.sections -%}
-            <a class="page-link" href="{{ path | prepend: '#' | relative_url }}">{{ path | escape }}</a>
+            <a class="page-link" href="{{ path | prepend: '#' }}">{{ path | escape }}</a>
           {%- endfor -%}
         </div>
       </nav>
