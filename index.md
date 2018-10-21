@@ -1,8 +1,8 @@
 ---
 layout: default
-sections: [ recent, identity, research, academics, team, contact ]
+sections: [ identity, research, academics, team, contact ]
 ---
-# Recent
+# News
 {:.section}
 {% include newsloop.html %}
 

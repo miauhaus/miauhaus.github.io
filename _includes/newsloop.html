@@ -1,7 +1,7 @@
 <ul class="vertical-thumbnails">
   {% for post in site.posts %}
   <li>
-    <a href="{{ post.link }}">
+    <a href="{{ post.url | relative_url }}">
       <img style="width: 100%;" src="{{ post.thumbnail }}" alt="">
       <span>{{ post.title }}</span>
     </a>
