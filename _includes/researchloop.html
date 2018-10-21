@@ -1,7 +1,10 @@
-{% for post in site.research %}
-<ul>
+<ul class="thumbnails">
+  {% for post in site.research %}
   <li>
-    <img src="{{post.thumbnail}}" alt="">
+    <a href="research/{{ post.title | slugify }}">
+      <img style="width: 300px" src="{{ post.thumbnail }}" alt="">
+      <p>{{ post.title }}</p>
+    </a>
   </li>
+  {% endfor %}
 </ul>
-{% endfor %}
