@@ -1,7 +1,10 @@
-{% for post in site.posts %}
-<ul>
+<ul class="vertical-thumbnails">
+  {% for post in site.posts %}
   <li>
-    <img src="{{post.thumbnail}}" alt="">
+    <a href="{{ post.link }}">
+      <img style="width: 100%;" src="{{ post.thumbnail }}" alt="">
+      <span>{{ post.title }}</span>
+    </a>
   </li>
+  {% endfor %}
 </ul>
-{% endfor %}

@@ -47,8 +47,42 @@ img {
   margin:0;
   li {
     margin: $spacing-unit;
-    height: 100px;
-    width: 100px;
+  }
+}
+
+.vertical-thumbnails {
+  position: relative;
+  list-style: none;
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin:0;
+  li {
+    padding-top: 16%;
+    margin: 0;
+    text-align: left;
+    width: 100%;
+    img {
+      margin: 0;
+      position: absolute;
+      width: 100%;
+      top: 0;
+      left: 0;
+      margin: 0;
+      padding: 0;
+      z-index: -1;
+    }
+
+    span {
+      position: absolute;
+      bottom: $spacing-unit/4;
+      margin: $spacing-unit/2;
+      // color: $background-color;
+      font-size: 3rem;
+      font-weight: bold;
+    }
   }
 }
 
@@ -58,6 +92,7 @@ img {
   border-width: 1px;
   border-color: $text-color;
   line-height: 45px;
+  margin-top: $spacing-unit/2;
 }
 
 .section-header {

@@ -2,7 +2,7 @@
 layout: research
 title: Organic Architecture
 description: <<your description>>
-thumbnail: 
+thumbnail: https://i.postimg.cc/GpRCtvcJ/Screen-Shot-2018-10-21-at-16-15-34.png
 author: <<your name>>
 language: << ISO 639-1 language code>>
 date: 2018-10-10 00:00

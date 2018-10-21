@@ -94,7 +94,7 @@ quick guides
 layout: research
 title: <<your title>>
 description: <<your description>>
-thumbnail: <<your thumnail url>>
+thumbnail: <<your thumnail url>> 300x425px
 author: <<your name>>
 language: << ISO 639-1 language code>>
 date: << YYYY-MM-DD HH:MM >>
@@ -108,7 +108,7 @@ sections: [] << optional >>
 
 6. when you are happy with the result, make a pull request, as explained below.
 
-> Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/)
+> Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/) and max-width for full width is 1280px
 
 ### add news
 1. On your fork, click on `branch` and create a new branch with the name of your research article
@@ -137,7 +137,7 @@ sections: [] << optional >>
 
 6. when you are happy with the result, make a pull request, as explained below.
 
-> Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/)
+> Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/) and max-width for full width is 1280px
 
 ### add courses
 
@@ -155,7 +155,7 @@ sections: [] << optional >>
 layout: course
 title: <<your title>>
 description: <<your description>>
-thumbnail: <<your thumnail url 1280px x 128px>>
+thumbnail: <<your thumnail url 260px height>>
 author: <<your name>>
 language: << ISO 639-1 language code>>
 date: << YYYY-MM-DD HH:MM >>
@@ -167,7 +167,7 @@ sections: [] << optional >>
 
 6. when you are happy with the result, make a pull request, as explained below.
 
-> Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/)
+> Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/) and max-width for full width is 1280px
 
 
 ### make a pull request
