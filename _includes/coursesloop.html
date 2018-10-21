@@ -1,7 +1,7 @@
 <ul class="thumbnails">
   {% for course in site.courses %}
   <li>
-    <a href="{% if course.link %}{{ course.link }}{% else %}courses/{{ course.title }}{% endif %}"><img alt="{{ course.title }}" src="{{ course.thumbnail }}" alt="{{ course.title}}"></a>
+    <a href="{% if course.link %}{{ course.link }}{% else %}courses/{{ course.title }}{% endif %}"><img alt="{{ course.title }}" src="{{ course.thumbnail }}" class="filter"></a>
   </li>
   {% endfor %}
 </ul>
