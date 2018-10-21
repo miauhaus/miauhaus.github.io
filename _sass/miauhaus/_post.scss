@@ -1,0 +1,19 @@
+.post {
+  .post-header {
+    margin-bottom: $spacing-unit;
+  }
+  
+  .post-title {
+    font-size: 2.6rem;
+    letter-spacing: -1px;
+    line-height: 1;
+  
+    @include media-query($desktop) {
+      font-size: 2.25rem;
+    }
+  }
+  
+  .post-content {
+    margin-bottom: $spacing-unit;
+  }
+}

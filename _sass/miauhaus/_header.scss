@@ -1,0 +1,93 @@
+.site-header {
+  position: relative;
+  margin: $spacing-unit 0 0 0;
+
+  .logo {
+    float: left;
+    margin: 0;
+    width: 200px;
+    @include media-query($desktop) {
+      width: 330px;
+    }
+  }
+
+  label[for="nav-trigger"] {
+    position: relative;
+    display: block;
+    float: right;
+    width: 36px;
+    height: 36px;
+    z-index: 2;
+    cursor: pointer;
+  }
+
+  .menu-icon {
+    position: absolute;
+    display: block;
+    float: right;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin: 0;
+    width: 36px;
+    height: 26px;
+    line-height: 0;
+    text-align: center;
+  }
+
+  .site-nav {
+    text-align: center;
+    width: 100%;
+
+
+    .nav-trigger {
+      display: none;
+    }
+
+    .page-link {
+      display: block;
+      padding: 5px 10px;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 20px;
+    }
+
+    input ~ .trigger {
+      display: none;
+    }
+
+    input:checked ~ .trigger {
+      display: block;
+      padding-bottom: 5px;
+      clear: both;
+    }
+  }
+  @include media-query($desktop) {
+    .menu-icon {
+      display: none !important;
+    }
+    label {
+      display: none !important;
+    }
+    .site-nav {
+      .trigger {
+        display: block !important;
+        float: right;
+        line-height: 82px;
+        clear: none;
+      }
+      .page-link {
+        display: inline-block;
+        color: $text-color;
+        line-height: $base-line-height;
+        font-size: 1.6rem;
+        margin-top: 0;
+        &:not(:last-child) {
+          margin-right: 20px;
+        }
+      }
+    }
+  }
+}

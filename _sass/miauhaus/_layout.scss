@@ -1,0 +1,11 @@
+html {
+  font-size: $base-font-size;
+}
+body {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $text-color;
+  background-color: $background-color;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}

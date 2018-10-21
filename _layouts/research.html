@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="research h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="header">
+    <h1 class="section-header" itemprop="headline">Research</h1>
+    <h1 class="title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="meta">
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span class="p-author h-card" itemprop="name">{{ page.author }}</span>
+      </span>
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+  </header>
+  <div class="content e-content" itemprop="body">
+    {{ content }}
+  </div>
+</article>
