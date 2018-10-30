@@ -33,7 +33,7 @@ The Master’s Degree in Advanced Infographics is a postgraduate professional pr
 
 Its academic structure offers advanced training in the technical skills necessary to recast the boundaries of these disciplines, while fostering critical thought in the context of design speculation.
 
-The course is intended for qualified architects, engineers, artists or designers who have completed their bachelor´s degree or equal level certificate. The program consists of 720 hours (72 ECTS) from October 2017 to October 2018, Monday through Thursday, every afternoon (15.45 to 21.00). During this time, it is recommended a full-time dedication in order to develope and complete practical work
+The course is intended for qualified architects, engineers, artists or designers who have completed their bachelor´s degree or equal level certificate. The program consists of 30 ECTS from January 2019 to June 2019, Monday through Thursday, every afternoon (15.45 to 21.00). During this time, it is recommended a full-time dedication in order to develope and complete practical work
 
 # ![](https://c2.staticflickr.com/2/1968/45347132761_135e70d6ee_b_d.jpg) <span>Academic Calendar
 {: .section #calendar}
