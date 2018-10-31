@@ -22,7 +22,7 @@ Terms of Use and Policies – You adhere to the below Terms of Use and to the ap
 
 licensing
 ---
-Each contributor owns it's contribution, and it's responsible of it
+Each contributor owns its contribution, and its responsible of it
 
 This is a publishing platform. Every contribution will published
 
