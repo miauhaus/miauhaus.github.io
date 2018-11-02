@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 360º OPEN CLASS - VR final presentation
-thumbnail: <a data-flickr-embed="true"  href="https://www.flickr.com/photos/138029137@N04/45682903481/in/dateposted/" title="web_bas31543424_2027931860802930_7272535339107876864_n"><img src="https://farm2.staticflickr.com/1919/45682903481_98dac74c49_o.jpg" width="1280" height="1810" alt="web_bas31543424_2027931860802930_7272535339107876864_n"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-date: 2018-11-02 19:00
+thumbnail: https://farm5.staticflickr.com/4896/45684651231_0da8105e78_o_d.jpg
+date: 2018-05-08 16:00
 ---
 
 # VR OPEN CLASS - Reactive Environments&Landscapes final projects
