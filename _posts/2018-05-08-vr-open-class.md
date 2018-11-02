@@ -1,11 +1,14 @@
 ---
 layout: post
-title: 360º OPEN CLASS - VR final presentation
+title: VR OPEN CLASS - VR final presentation
+description: Reactive Environments & Landscapes final projects 
+author: miauhaus
+language: en
 thumbnail: https://farm5.staticflickr.com/4896/45684651231_0da8105e78_o_d.jpg
 date: 2018-05-08 16:00
 ---
 
-# VR OPEN CLASS - Reactive Environments&Landscapes final projects
+
 REACTIVE ENVIRONMENTS & LANDSCAPES came to an end last May. We watched the projects that the students developed during the course and we experimented with them. Every project was shown with VR glasses.
 This class is part of REACTIVE ENVIRONMENT & LANDSCAPES, given by Daniel Bas.
 
