@@ -22,7 +22,7 @@ Terms of Use and Policies – You adhere to the below Terms of Use and to the ap
 
 licensing
 ---
-Each contributor owns it's contribution, and it's responsible of it
+Each contributor owns its contribution, and its responsible of it
 
 This is a publishing platform. Every contribution will published
 
@@ -91,7 +91,7 @@ sections: [] << optional >>
 ```
 5. add your content using markdown syntax
 6. when you are happy with the result, `Propose file change` or `Propose new file`  and `create pull request`
-> Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/) and max-width for full width is 1280px
+> Remember that all the images must be hosted at external services such as [flikr](https://www.flickr.com/) and max-width for full width is 1280px
 
 ### add news
 1. go to `_posts` folder
@@ -113,7 +113,7 @@ sections: [] << optional >>
 ```
 5. add your content using markdown syntax
 6. when you are happy with the result, `Propose file change` or `Propose new file`  and `create pull request`
-> Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/) and max-width for full width is 1280px
+> Remember that all the images must be hosted at external services such as [flikr](https://www.flickr.com/) and max-width for full width is 1280px
 
 ### add courses
 1. go to `_courses` folder
@@ -135,7 +135,7 @@ sections: [] << optional >>
 ```
 5. add your content using markdown syntax
 6. when you are happy with the result, `Propose file change` or `Propose new file`  and `create pull request`
-> Remember that all the images must be hosted at external services such as [postimg.cc](https://postimg.cc) or [flikr](https://www.flickr.com/) and max-width for full width is 1280px
+> Remember that all the images must be hosted at external services such as [flikr](https://www.flickr.com/) and max-width for full width is 1280px
 
 ### edit the home page
 1. open `index.md`
