@@ -61,13 +61,13 @@ img {
   justify-content: center;
   margin:0;
   li {
-    padding-top: 16%;
+    position: relative;
     margin: 0;
+    margin-bottom: 10px;
     text-align: left;
     width: 100%;
     img {
       margin: 0;
-      position: absolute;
       width: 100%;
       top: 0;
       left: 0;
@@ -77,12 +77,16 @@ img {
     }
 
     span {
+      background-color: rgba(#ffffff, 0.5);
       position: absolute;
       bottom: $spacing-unit/4;
       margin: $spacing-unit/2;
-      // color: $background-color;
-      font-size: 3rem;
+      color: $background-color;
+      font-size: 2rem;
       font-weight: bold;
+      padding: 2px 5px;
+      border-radius: 2px;
+      // text-shadow: 2px 2px 2px $background-color
     }
   }
 }
