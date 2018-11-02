@@ -12,6 +12,5 @@ This class is part of REACTIVE ENVIRONMENT & LANDSCAPES, given by Daniel Bas.
 Here are two projects developed by two of our students: Sergio Limiñana and Francesc Sòria.
 
 <iframe src="https://player.vimeo.com/video/298626688" width="640" height="349" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/298626688">Reactive Environments&amp;Landscapes by Sergio Limi&ntilde;ana Vera</a> from <a href="https://vimeo.com/user68758660">MIAU</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <iframe src="https://player.vimeo.com/video/298626810" width="640" height="349" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
