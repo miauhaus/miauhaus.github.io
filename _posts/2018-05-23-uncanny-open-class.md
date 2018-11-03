@@ -17,9 +17,7 @@ Here are some videos of the development some students made with their scanned fa
 
 <iframe src="https://player.vimeo.com/video/298623829" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/298623829">Pleasant Bodies by Elisa Cuesta (Uncanny Dynamics P.I)</a> from <a href="https://vimeo.com/user68758660">MIAU</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 <iframe src="https://player.vimeo.com/video/298626282" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/298626282">El conflicto de la distancia by Pedro Cortes (Uncanny Dynamics P.I)</a> from <a href="https://vimeo.com/user68758660">MIAU</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 <iframe src="https://player.vimeo.com/video/298626494" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/298626494">Deconstructing Androgyny by Leticia Izquierdo (Uncanny Dynamics P.I)</a> from <a href="https://vimeo.com/user68758660">MIAU</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
