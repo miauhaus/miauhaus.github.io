@@ -2,6 +2,7 @@
 layout: post
 title: Uncanny Dynamics Open Doors
 thumbnail: https://farm5.staticflickr.com/4873/45649592262_9a953c1c23_o_d.jpg
+language: <<en>>
 date: 2018-05-23 16:00
 ---
 
