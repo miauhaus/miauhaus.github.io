@@ -4,7 +4,7 @@ title: VR OPEN CLASS - VR final presentation
 description: Reactive Environments & Landscapes final projects 
 author: miauhaus
 language: en
-thumbnail: https://farm5.staticflickr.com/4896/45684651231_0da8105e78_o_d.jpg
+thumbnail: https://farm5.staticflickr.com/4804/45661872482_490fb26491_o_d.jpg
 date: 2018-05-08 16:00
 ---
 
