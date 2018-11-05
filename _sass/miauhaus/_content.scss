@@ -1,5 +1,5 @@
 p {
-  font-size: 1.1 rem;
+  font-size: 1.2rem;
   @include media-query($desktop) {
     font-size: 1.6rem;
   }
@@ -77,16 +77,16 @@ img {
     }
 
     span {
-      background-color: rgba(#ffffff, 0.5);
+      // background-color: rgba(#ffffff, 0.5);
       position: absolute;
       bottom: $spacing-unit/4;
       margin: $spacing-unit/2;
-      color: $background-color;
+      // color:white;
       font-size: 2rem;
       font-weight: bold;
-      padding: 2px 5px;
-      border-radius: 2px;
-      // text-shadow: 2px 2px 2px $background-color
+      // padding: 2px 5px;
+      // border-radius: 2px;
+      text-shadow: 2px 2px 2px $background-color
     }
   }
 }
@@ -114,4 +114,12 @@ img {
 
 .centered {
   text-align: center;
+}
+
+li {
+  font-size: 1.2rem;
+  @include media-query($desktop) {
+    font-size: 1.6rem;
+  }
+  margin: 10px;
 }

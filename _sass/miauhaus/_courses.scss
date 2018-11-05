@@ -6,10 +6,9 @@
   .section {
     position: relative;
     border: none;
-    height: 305px;
+    padding-top: 29%;
     img {
       position: absolute;
-      height: 100%;
       width: 100%;
       top: 0;
       left: 0;
@@ -18,8 +17,13 @@
       z-index: -1;
     }
     span {
-      color: $background-color;
+      position: absolute;
+      top: 10px;
+      // color: $background-color;
       margin: $spacing-unit/2;
+      text-shadow: 2px 2px 2px $background-color;
+      font-size: 3rem;
+      font-weight: bold;
     }
   }
 }
