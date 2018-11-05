@@ -26,7 +26,7 @@ Its academic structure offers advanced training in the technical skills necessar
 
 The course is intended for qualified architects, engineers, artists or designers who have completed their bachelor´s degree or equal level certificate. The program consists of 720 hours (72 ECTS) from October 2017 to October 2018, Monday through Thursday, every afternoon (15.45 to 21.00). During this time, it is recommended a full-time dedication in order to develope and complete practical work
 
-# ![](https://c2.staticflickr.com/2/1968/45347132761_135e70d6ee_b_d.jpg) <span>Educational Goals
+# ![](https://farm2.staticflickr.com/1919/30688704157_00954a3d7a_o_d.jpg) <span>Educational Goals
 {: .section #goals}
 
 - Creating Instrumental Project Support: Generation, Ideas, Formats, Displays, Narratives.
