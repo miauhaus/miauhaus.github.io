@@ -103,7 +103,7 @@ sections: [] << optional >>
 layout: post
 title: <<your title>>
 description: <<your description>>
-thumbnail: <<your thumnail url 1280px x 128px>>
+thumbnail: <<your thumnail url 1280px x 128px>> NO TEXT ALLOWED
 author: <<your name>>
 language: << ISO 639-1 language code>>
 date: << YYYY-MM-DD HH:MM >>
