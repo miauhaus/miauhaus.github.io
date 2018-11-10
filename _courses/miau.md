@@ -8,7 +8,7 @@ language: en
 date: 2018-10-01 00:00
 sections: [ master, course, goals, calendar, application ]
 ---
-# ![](https://farm2.staticflickr.com/1979/44904990494_8fe086d9d9_o_d.jpg) <span>Master in Computational Design
+# ![](https://farm2.staticflickr.com/1924/44691545865_6ff94988d6_o_d.jpg) <span>Master in Computational Design
 {: .section #master}
 
 The Master’s Degree in Advanced Infographics is a postgraduate professional program at the convergence of technology, architecture, art and design presented by Universidad Politécnica de Madrid.
@@ -17,7 +17,7 @@ Its academic structure offers advanced training in the technical skills necessar
 
 The course is intended for qualified architects, engineers, artists or designers who have completed their bachelor´s degree or equal level certificate. The program consists of 300 hours (30 ECTS) from January 2019 to June 2019, Monday through Thursday, every afternoon (15.45 to 21.00). During this time, it is recommended a full-time dedication in order to develope and complete practical work
 
-# ![](https://farm2.staticflickr.com/1924/44691545865_6ff94988d6_o_d.jpg) <span>Course Booklet
+# ![](https://farm2.staticflickr.com/1979/44904990494_8fe086d9d9_o_d.jpg) <span>Course Booklet
 {: .section #course}
 
 
@@ -39,7 +39,7 @@ The course is intended for qualified architects, engineers, artists or designers
 {: .section #calendar}
 
 
-# ![](https://farm2.staticflickr.com/1919/30688704157_00954a3d7a_o_d.jpg) <span>Application Guidelines
+# ![](https://farm2.staticflickr.com/1953/45039241304_c8eb0c0c2e_o_d.jpg) <span>Application Guidelines
 {: .section #application}
 
 The application period for 2019 is open. If you wish to apply, please, send your CV and portfolio, to hey@miauhaus.org. The academic committee will evaluate your application and we will contact you. Application period is open until 1st December.
