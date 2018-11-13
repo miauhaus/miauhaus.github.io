@@ -48,6 +48,9 @@
       display: block;
       padding: 5px 10px;
       margin-bottom: 15px;
+      text-transform: capitalize;
+      font-size: 1.75rem;
+      font-weight: 700;
 
       &:not(:last-child) {
         margin-right: 0;
@@ -84,7 +87,6 @@
       .page-link {
         display: inline-block;
         color: $text-color;
-        text-transform: capitalize;
         line-height: $base-line-height;
         font-size: 1.6rem;
         margin-top: 0;
