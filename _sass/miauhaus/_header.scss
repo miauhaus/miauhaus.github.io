@@ -47,6 +47,10 @@
     .page-link {
       display: block;
       padding: 5px 10px;
+      margin-bottom: 15px;
+      text-transform: capitalize;
+      font-size: 1.75rem;
+      font-weight: 700;
 
       &:not(:last-child) {
         margin-right: 0;
@@ -62,6 +66,8 @@
       display: block;
       padding-bottom: 5px;
       clear: both;
+      padding-top: 15px;
+      position: relative;
     }
   }
   @include media-query($desktop) {

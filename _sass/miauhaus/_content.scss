@@ -133,3 +133,16 @@ li {
   }
   margin: 10px;
 }
+
+blockquote {
+  color: $text-color;
+  font-style: italic;
+  text-align: center;
+  margin: $spacing-unit;
+  @include media-query($desktop) {
+    margin: $spacing-unit*3 $spacing-unit*10;
+  }
+  p {
+    font-size: 2rem;
+  }
+}

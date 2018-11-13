@@ -32,6 +32,8 @@ miauhaus qualify us to combine diverse visions in collaborative multi platform e
 {:.section}
 {% include coursesloop.html %}
 
+> Miauhaus offers students versatility in order to pursue and achieve their personal exploration and critisicing the limits of architecture
+
 # Contact
 {:.section}
 
@@ -39,6 +41,6 @@ miauhaus qualify us to combine diverse visions in collaborative multi platform e
 
 ## Get in touch
 {:.centered}
-hey@miauhaus.com
+[hey@miauhaus.org](mailto:hey@miauhaus.org)
 {:.centered}
 
