@@ -19,7 +19,7 @@ Its academic structure offers advanced training in the technical skills necessar
 The course is intended for qualified architects, engineers, artists or designers who have completed their bachelor´s degree or equal level certificate. The program consists of 300 hours (30 ECTS) from January 2019 to June 2019, Monday through Thursday, every afternoon (15.45 to 21.00). During this time, it is recommended a full-time dedication in order to develope and complete practical work
 </div>
 # Program
-{: .section #course}
+{: .section #program}
 ![](https://farm2.staticflickr.com/1979/44904990494_8fe086d9d9_o_d.jpg)
 
 # Educational Goals
