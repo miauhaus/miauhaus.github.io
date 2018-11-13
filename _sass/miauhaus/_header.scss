@@ -81,6 +81,7 @@
       .page-link {
         display: inline-block;
         color: $text-color;
+        text-transform: capitalize;
         line-height: $base-line-height;
         font-size: 1.6rem;
         margin-top: 0;
