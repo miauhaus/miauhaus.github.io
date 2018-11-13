@@ -47,6 +47,7 @@
     .page-link {
       display: block;
       padding: 5px 10px;
+      margin-bottom: 15px;
 
       &:not(:last-child) {
         margin-right: 0;
@@ -62,6 +63,8 @@
       display: block;
       padding-bottom: 5px;
       clear: both;
+      padding-top: 15px;
+      position: relative;
     }
   }
   @include media-query($desktop) {
