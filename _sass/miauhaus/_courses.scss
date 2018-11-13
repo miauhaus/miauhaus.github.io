@@ -1,29 +1,29 @@
 .course {
   .logo {
-    width: 205px;
+    width: 250px;
     margin: $spacing-unit*4 auto;
   }
-  .section {
-    position: relative;
-    border: none;
-    padding-top: 29%;
-    img {
-      position: absolute;
-      width: 100%;
-      top: 0;
-      left: 0;
-      margin: 0;
-      padding: 0;
-      z-index: -1;
-    }
-    span {
-      position: absolute;
-      top: 10px;
-      // color: $background-color;
-      margin: $spacing-unit/2;
-      text-shadow: 2px 2px 2px $background-color;
-      font-size: 3rem;
-      font-weight: bold;
-    }
-  }
+  // .section {
+  //   position: relative;
+  //   border: none;
+  //   padding-top: 29%;
+  //   img {
+  //     position: absolute;
+  //     width: 100%;
+  //     top: 0;
+  //     left: 0;
+  //     margin: 0;
+  //     padding: 0;
+  //     z-index: -1;
+  //   }
+  //   span {
+  //     position: absolute;
+  //     top: 10px;
+  //     // color: $background-color;
+  //     margin: $spacing-unit/2;
+  //     text-shadow: 2px 2px 2px $background-color;
+  //     font-size: 3rem;
+  //     font-weight: bold;
+  //   }
+  // }
 }
