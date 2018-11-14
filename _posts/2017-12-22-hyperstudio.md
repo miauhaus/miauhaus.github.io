@@ -10,13 +10,18 @@ date: 2017-12-22 16:00
 
 ‘Interactive Hypermedias’ was a workshop taught at the Web Lab of our master programm given by the Madrid based creative studio HYPER STUDIO.
 
-<iframe src="https://giphy.com/embed/2UKuQaIpTHTB0mDiUE" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2UKuQaIpTHTB0mDiUE">via GIPHY</a></p>
+![](https://giphy.com/embed/2UKuQaIpTHTB0mDiUE)
+
 ‘Interactive Hypermedia: Designing communication strategies in digital environments for the future’ was a 6-day workshop taught within our Web Lab. From a few simple interfaces developed in p5 and 3js, each student developed an interactive platform related to each of their research topics for the final projects.
 
 The results of the workshop were presented in a ByOB at the ‘MIAU’s Closing the Night’ event within the ETSAM open house week.
-https://farm5.staticflickr.com/4917/44064020970_6a4891803f_o_d.jpg
-https://farm5.staticflickr.com/4891/45156506604_674e198012_o_d.jpg
-https://farm5.staticflickr.com/4904/45156507034_706e0669e8_o_d.jpg
+
+![](https://farm5.staticflickr.com/4917/44064020970_6a4891803f_o_d.jpg)
+
+![](https://farm5.staticflickr.com/4891/45156506604_674e198012_o_d.jpg)
+
+![](https://farm5.staticflickr.com/4904/45156507034_706e0669e8_o_d.jpg)
+
 Students: Jaime Jimenez Barragan, Leticia Izquierdo García, Martina Almela Sena, Pedro Arnanz Coll y Pedro Cortes
 
 <iframe src="https://player.vimeo.com/video/248907666" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
