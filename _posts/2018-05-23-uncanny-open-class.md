@@ -2,7 +2,7 @@
 layout: post
 title: Uncanny Dynamics Open Doors
 description: We celebrated Madrid's Architectural School Open Doors scanning our faces in an open class
-thumbnail: https://farm5.staticflickr.com/4873/45649592262_9a953c1c23_o_d.jpg
+thumbnail: https://farm5.staticflickr.com/4828/44963368505_b951e6f07d_o_d.jpg
 author: miauhaus
 language: en
 date: 2018-05-23 16:00
