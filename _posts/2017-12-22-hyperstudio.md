@@ -25,6 +25,5 @@ The results of the workshop were presented in a ByOB at the ‘MIAU’s Closing 
 Students: Jaime Jimenez Barragan, Leticia Izquierdo García, Martina Almela Sena, Pedro Arnanz Coll and Pedro Cortes.
 
 <iframe src="https://player.vimeo.com/video/248907666" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/248907666">MIAU Web Lab: &#039;Interactive Hypermedias&#039;</a> from <a href="https://vimeo.com/hyperstudioes">Hyper Studio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 About HYPER STUDIO: HYPER STUDIO was founded in 2016 by Cristóbal Baños (designer and developer) and Diego Iglesias (architect and cultural manager). HYPER STUDIO is a young creative studio, formed by multidisciplinary designers, based on the internet. With a background in architecture and digital media it merges interdisciplinary research and interactive design to build successful platforms and hypermedial strategies for the future. You can check more of their work [here](https://hyperstudio.es/en/).
