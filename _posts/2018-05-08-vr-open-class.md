@@ -9,7 +9,7 @@ date: 2018-05-08 16:00
 ---
 
 
-REACTIVE ENVIRONMENTS & LANDSCAPES came to an end last May. We watched the projects that the students developed during the course and we experimented with them. Every project was shown with VR glasses.
+REACTIVE ENVIRONMENTS & LANDSCAPES came to an end last [May](https://www.facebook.com/events/201802960608942/). We watched the projects that the students developed during the course and we experimented with them. Every project was shown with VR glasses.
 This class is part of REACTIVE ENVIRONMENT & LANDSCAPES, given by Daniel Bas.
 
 Here are two projects developed by two of our students: Sergio Limiñana and Francesc Sòria.
