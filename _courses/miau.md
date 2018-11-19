@@ -101,10 +101,18 @@ Digital Project Laboratories. Workshops integrating all the knowledge and skills
 - Establish and customize Research Models based on MIAUHAUS methodology (TFM)
 - Develop Professional Digital Workflows to achieve tangible and specific objectives
 </div>
+
 # Academic Calendar
 {: .section #calendar}
-
 ![](https://farm2.staticflickr.com/1956/31757367508_4c2d96be15_o_d.jpg)
+
+## 14 January 2018 – 28 June 2019
+
+## 300 h
+
+## 30 ETCS
+
+## total tuition fee 3.750 €
 
 # Application Guidelines
 {: .section #application}
