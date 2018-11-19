@@ -21,6 +21,7 @@ The course is intended for qualified architects, engineers, artists or designers
 # Program
 {: .section #program}
 ![](https://farm2.staticflickr.com/1979/44904990494_8fe086d9d9_o_d.jpg)
+{% include subjectsloop.html %}
 
 # Educational Goals
 {: .section #goals}

@@ -1,0 +1,11 @@
+<ul class="thumbnails">
+  {% for subject in site.subjects %}
+  <li>
+    {{subject.title}}
+    ---
+    {{subject.description}}
+    <a href="{% if subject.link %}{{ subject.link }}{% else %}subjects/{{ subject.title }}{% endif %}">
+    </a>
+  </li>
+  {% endfor %}
+</ul>
