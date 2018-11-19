@@ -14,5 +14,6 @@ Last semester we celebrated ETSAM open doors with an UNCANNY DYNAMICS' open clas
 
 This Open Class took place at the Digital Fabrication LAB (FABLAB) at Madrid Architecture School (ETSAM). The class UNCANNY DYNAMICS was given by Ruxandra Iancu Bratosin. Uncanny Dynamics focuses on researching the boundaries between material and digital and the flow between one world to another. The class explores the possibilities of experiencing everyday objects in an unsettling, alienating or taboo context, based on Freud’s definition of “uncanny” and Lacan’s theory on experiencing “the Real”.
 
-![](https://farm5.staticflickr.com/4805/31810771038_63809d2eb3_o.jpg)
-![](https://farm5.staticflickr.com/4871/44768961935_b0f7af7f6b_o_d.jpg)
+MIAU3 student Álvaro Almazan Cabetas explains the whole proccess: ''First we used a Kinect Scanner to scan our faces. This programm generates a lot of meshes of the scann. Secondly, we went to Skanect, which simplifies the millions of points the scan create into meshes. Then each student worked with Meshmixer to edit, alterate, stretch and deformate the meshes, so we ended up exporting that file in an XTL format and we sent it to a 3D printing software to materialize the faces. We printed a primary prototipe in white PLA, which is a sustainable material. The final materialization of our faces was made in transparent PLA or TPU (which is more flexivle that the previous one). Every face was printed in white.''
+
+![](https://farm5.staticflickr.com/4812/44130600300_9074f54368_o_d.jpg)
