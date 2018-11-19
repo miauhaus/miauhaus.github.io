@@ -115,6 +115,8 @@ Digital Project Laboratories. Workshops integrating all the knowledge and skills
 
 ## total tuition fee 3.750 €
 
+[UPM course website](http://www.upm.es/Estudiantes/Estudios_Titulaciones/EstudiosPosgrado/especializacion?id=1089&fmt=detail)
+
 # Application Guidelines
 {: .section #application}
 ![](https://farm2.staticflickr.com/1953/45039241304_c8eb0c0c2e_o_d.jpg)
