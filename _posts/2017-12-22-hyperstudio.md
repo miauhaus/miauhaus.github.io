@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HYPER STUDIO Workshop - Interactive Hypermedias
+title: Workshop - Interactive Hypermedias
 description: Designing communication strategies in digital environments for the future 
 author: miauhaus
 language: en
