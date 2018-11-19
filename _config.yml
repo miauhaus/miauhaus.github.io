@@ -20,3 +20,5 @@ collections:
     output: true
   research:
     output: true
+  subjects:
+    output: false

@@ -21,6 +21,7 @@ The course is intended for qualified architects, engineers, artists or designers
 # Program
 {: .section #program}
 ![](https://farm2.staticflickr.com/1979/44904990494_8fe086d9d9_o_d.jpg)
+{% include subjectsloop.html %}
 
 # Educational Goals
 {: .section #goals}
@@ -45,9 +46,9 @@ The course is intended for qualified architects, engineers, artists or designers
 
 # Application Guidelines
 {: .section #application}
+![](https://farm2.staticflickr.com/1953/45039241304_c8eb0c0c2e_o_d.jpg)
 
 The application period for 2019 is open. If you wish to apply, please, send your CV and portfolio, to [hey@miauhaus.org](mailto:hey@miauhaus.org). The academic committee will evaluate your application and we will contact you. Application period is open until 1st December.
 
 We also arrange meetings with people interested in our master. If you wish to meet us send an email to [hey@miauhaus.org](mailto:hey@miauhaus.org)
 
-![](https://farm2.staticflickr.com/1953/45039241304_c8eb0c0c2e_o_d.jpg)
