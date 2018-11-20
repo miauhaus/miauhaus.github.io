@@ -8,7 +8,7 @@ language: en
 date: 2018-10-01 00:00
 sections: [ master, program, goals, calendar, application ]
 ---
-# Master in Computational Design
+# Postgraduate Program in Advanced Infographics
 {: .section #master}
 ![](https://farm2.staticflickr.com/1924/44691545865_6ff94988d6_o_d.jpg)
 <div class="section-content">
