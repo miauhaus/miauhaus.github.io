@@ -11,20 +11,21 @@ sections: [ master, program, goals, calendar, application ]
 # Postgraduate Program in Advanced Infographics
 {: .section #master}
 ![](https://farm2.staticflickr.com/1924/44691545865_6ff94988d6_o_d.jpg)
-<div class="section-content">
+<div class="two-col">
 The Master’s Degree in Advanced Infographics is a postgraduate professional program at the convergence of technology, architecture, art and design presented by Universidad Politécnica de Madrid.
 
 Its academic structure offers advanced training in the technical skills necessary to recast the boundaries of these disciplines, while fostering critical thought in the context of design speculation.
 
 The course is intended for qualified architects, engineers, artists or designers who have completed their bachelor´s degree or equal level certificate. The program consists of 300 hours (30 ECTS) from January 2019 to June 2019, Monday through Thursday, every afternoon (15.45 to 21.00). During this time, it is recommended a full-time dedication in order to develope and complete practical work
 </div>
+
 # Program
 {: .section #program}
 ![](https://farm2.staticflickr.com/1979/44904990494_8fe086d9d9_o_d.jpg)
 
 ---
 ## 1. PROJECT GENERATION I 10ECTS
-<div class="section-content">
+<div class="two-col">
 Digital Fundamentals. Basic concepts and terminology to conceive infography as a fiel of knowledge and production based on algorithms, geometries, structures, shapes and images within the current context and the prospective evolution of digital tools regarding to project designing.
 
 Advanced Workflows. Multiplatform operational workflows for the creation, realization and presentation of achitecture and urbanism projects.
@@ -43,7 +44,7 @@ Multidisciplinary Design Systems. Dynamic models programming as a support to tra
 
 ---
 ## 2. COMPUTER GRAPHICS I 10 ECTS
-<div class="section-content">
+<div class="two-col">
 History and Technique of the Image. Contextual evolution of the pictorial representation related to the production techniques.
 
 Diagramming and Graphic Representation. Production of graphic presentation of a proposition, of the project´s scheme, of the relations between the different parts or elements of a set or system.
@@ -60,7 +61,7 @@ Three-dimensional abstraction. Three-dimensional and two-dimensional reduction o
 
 ---
 ## 3. NEW TECHNOLOGIES FOR INFOGRAPHICS I 10 ECTS
-<div class="section-content">
+<div class="two-col">
 3D animation and motion design. Elaboration of the narrative of the project.
 
 Algorithms, Data and Processes. Programming languages and computational logic to develop interactive procedures and simulations based on data visualization.
@@ -90,7 +91,7 @@ Digital Project Laboratories. Workshops integrating all the knowledge and skills
 {: .section #goals}
 
 ![](https://farm2.staticflickr.com/1919/30688704157_00954a3d7a_o_d.jpg)
-<div class="section-content">
+<div class="two-col">
 - Creating Instrumental Project Support: Generation, Ideas, Formats, Displays, Narratives.
 - Cultivate Group Dynamics that explore the formalization of research in operational formats for its communication and sharing within multidisciplinary teams.
 - Generate Research Lines that deepen in the knowledge of Project Design through Custom Tools
