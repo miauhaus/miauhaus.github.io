@@ -66,9 +66,13 @@ img {
     margin-bottom: 10px;
     text-align: left;
     width: 100%;
+    padding-top: 10%;
+    overflow: hidden;
     img {
+      position: absolute;
       margin: 0;
       width: 100%;
+      height: 100%;
       top: 0;
       left: 0;
       margin: 0;
@@ -112,7 +116,7 @@ img {
   line-height: 45px;
 }
 
-.section-content {
+.two-col {
   @include media-query($desktop) {
     column-count: 2;
   }
@@ -154,4 +158,32 @@ blockquote {
   width: 100%;
   height: 100%;
   background-color: $overlay-color;
+}
+
+.side-img {
+  display: inline-block;
+}
+
+.side-txt {
+  display: inline-block;
+}
+
+.float-left {
+  float: left;
+  margin-right: $spacing-unit;
+}
+
+.video-container {
+  position: relative;
+  overflow: hidden;
+  padding-top: 62.25%;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
 }
