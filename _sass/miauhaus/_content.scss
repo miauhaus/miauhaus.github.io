@@ -38,6 +38,15 @@ img {
   display: block;
 }
 
+li {
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+  @include media-query($desktop) {
+    font-size: 1.4rem;
+    line-height: 2rem;
+  }
+}
+
 .thumbnails {
   list-style: none;
   display: flex;
@@ -130,14 +139,6 @@ img {
   text-align: center;
 }
 
-li {
-  font-size: 1.2rem;
-  @include media-query($desktop) {
-    font-size: 1.6rem;
-  }
-  margin: 10px;
-}
-
 blockquote {
   color: $text-color;
   font-style: italic;
@@ -169,8 +170,10 @@ blockquote {
 }
 
 .float-left {
-  float: left;
-  margin-right: $spacing-unit;
+  @include media-query($mobile) {
+    float: left;
+    margin-right: $spacing-unit*2;
+  }
 }
 
 .video-container {
