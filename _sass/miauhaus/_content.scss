@@ -38,6 +38,15 @@ img {
   display: block;
 }
 
+li {
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+  @include media-query($desktop) {
+    font-size: 1.4rem;
+    line-height: 2rem;
+  }
+}
+
 .thumbnails {
   list-style: none;
   display: flex;
@@ -128,14 +137,6 @@ img {
 
 .centered {
   text-align: center;
-}
-
-li {
-  font-size: 1.2rem;
-  @include media-query($desktop) {
-    font-size: 1.6rem;
-  }
-  margin: 10px;
 }
 
 blockquote {
