@@ -6,7 +6,7 @@ sections: [ about, academics, contact ]
 {:.section}
 {% include newsloop.html %}
 
-# About miauhaus
+# About Miauhaus
 {:.section #about}
 <div class="two-col">
 miauhaus is an open research community
