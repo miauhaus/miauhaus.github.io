@@ -7,8 +7,9 @@ author: miauhaus
 language: en
 date: 2017-09-13 00:00
 ---
-
-<iframe src="https://player.vimeo.com/video/27642885" width="640" height="478" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<figure class="video-container" style="padding-top: 45%"  >
+  <iframe src="https://player.vimeo.com/video/27642885?color=2E2E2E&title=0&byline=0&portrait=0" style="height: 94%" frameborder="0"></iframe>
+</figure>
 
 We understand Virtual ecosystem (VEC) as a digital system formed by a set of agents (in natural ecosystems, called biocenosis) and the physical environment where they are related (in natural ecosystems, called a biotope).
 
@@ -17,15 +18,17 @@ Based on this we understand VEC as negotiation tables to develop a collaboration
 This workshop took place at the workshop FAMA LAB VIRTUAL ECOSYSTEMS at Madrid’s School of Architecture (ETSAM). Towards real time reprogrammation of public space. This workshop is an exploration around the generation of a relational and undergoing space, capable of embracing an unlimited quantity of complexity. We need to be capable to understand public space as a complex ecosystem: social relationships and connections can´t happen without a medium.
 
 Main goals:
-1. Creation of three-dimensional objects that serve as agents: geometry, topology, deformations. 
-2. Learning of visual programming environments to generate routines that react to stimuli. 
-3. Generate a digital and physical framework that serves as a laboratory for negotiations. 
-4. Schedule behaviors. Modify the behavior of one agent by the behavior of another. Explore basic learning routines. Study of the flexibility of changing the programmed. 
-5. Explore the programming of a complex network of needs between different agents 
-6. Register the negotiation process: Analyze drifts and evaluate states. Modify routines in progress during the evolution of the system. Emerging relationships Reprogram according to the result. 
-7. Reach agreements and generate a method to evaluate equilibrium states of the multiple solutions. Schedule routines for global state analysis.   
+1. Creation of three-dimensional objects that serve as agents: geometry, topology, deformations.
+2. Learning of visual programming environments to generate routines that react to stimuli.
+3. Generate a digital and physical framework that serves as a laboratory for negotiations.
+4. Schedule behaviors. Modify the behavior of one agent by the behavior of another. Explore basic learning routines. Study of the flexibility of changing the programmed.
+5. Explore the programming of a complex network of needs between different agents
+6. Register the negotiation process: Analyze drifts and evaluate states. Modify routines in progress during the evolution of the system. Emerging relationships Reprogram according to the result.
+7. Reach agreements and generate a method to evaluate equilibrium states of the multiple solutions. Schedule routines for global state analysis.
 
 Tools and requirements involved were: CG platforms: Parametric SW (Rhinoceros-Grasshopper), interactive interface programming templates with Processing. During the workshop, the platforms indicated for the accomplishment of each assignment are used transversally; it is not necessary the complete knowledge of each software, only the necessary concepts to produce the prototype.
 
-<iframe src="https://player.vimeo.com/video/234040957" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<figure class="video-container">
+  <iframe src="https://player.vimeo.com/video/234040957?color=2E2E2E&title=0&byline=0&portrait=0" width="100%" frameborder="0" ></iframe>
+</figure>
 The workshop was organised by MIAU team members Érika Sánchez Pascual, Sergio Del Castillo Tello, Anton Tejada, Leticia Izquierdo Garcia, Marta CV and Luis Basabe Montalvo in September 2017.
