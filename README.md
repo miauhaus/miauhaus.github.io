@@ -137,6 +137,27 @@ sections: [] << optional >>
 6. when you are happy with the result, `Propose file change` or `Propose new file`  and `create pull request`
 > Remember that all the images must be hosted at external services such as [flikr](https://www.flickr.com/) and max-width for full width is 1280px
 
+### add subjects
+1. go to `_subjects` folder
+2. click on `create new file` or open an existing one and click the pencil for editing
+3. name your file with the title for your course, .md, use [kebab case](http://wiki.c2.com/?KebabCase)
+4. add the following data at the beggining of the file:
+```
+---
+layout: subject
+title: <<your title>>
+course: <<course>> f.e. miau
+description: <<your description>>
+thumbnail: <<your thumnail url 1280px width>>
+author: <<your name>>
+language: << ISO 639-1 language code>>
+date: << YYYY-MM-DD HH:MM >>
+---
+```
+5. add your content using markdown syntax
+6. when you are happy with the result, `Propose file change` or `Propose new file`  and `create pull request`
+> Remember that all the images must be hosted at external services such as [flikr](https://www.flickr.com/) and max-width for full width is 1280px
+
 ### edit the home page
 1. open `index.md`
 2. when you are happy with the result, `Propose file change` or `Propose new file`  and `create pull request`
