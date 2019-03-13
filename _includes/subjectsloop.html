@@ -1,7 +1,7 @@
 <ul class="thumbnails">
   {% for subject in site.subjects %}
   <li class="subject">
-    <a href="{% if subject.link %}{{ subject.link }}{% else %}/subjects/{{ subject.code }}{% endif %}">
+    <a href="{% if subject.link %}{{ subject.link }}{% else %}{{ subject.url }}{% endif %}">
       <span class="code">{{subject.code}}</span>
     </a>
     <div class="band"></div>
