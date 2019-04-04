@@ -2,7 +2,7 @@
 layout: post
 title: Virtual Ecosystems Workshop
 description: Collaboration or competition of Architectural Prototypes
-thumbnail: https://farm5.staticflickr.com/4818/45223409824_dd24cbbbce_o_d.jpg
+thumbnail: https://farm5.staticflickr.com/4818/45223409824_ee77402ac5_b.jpg
 author: miauhaus
 language: en
 date: 2017-09-13 00:00

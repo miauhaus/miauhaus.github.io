@@ -108,7 +108,7 @@ Digital Project Laboratories. Workshops integrating all the knowledge and skills
 {: .section #calendar}
 ![](https://farm2.staticflickr.com/1956/31757367508_4c2d96be15_o_d.jpg)
 
-## 14 January 2019 – 28 June 2019
+## 14 January 2020 – 28 June 2020
 
 ## 300 h
 
