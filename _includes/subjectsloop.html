@@ -3,10 +3,10 @@
   <li class="subject">
     <a href="{% if subject.link %}{{ subject.link }}{% else %}{{ subject.url }}{% endif %}">
       <span class="code">{{subject.code}}</span>
-    </a>
     <div class="band"></div>
     <h3>{{subject.title}}</h3>
     <p class="description">{{subject.description}}</p>
+    </a>
   </li>
   {% endfor %}
 </ul>
