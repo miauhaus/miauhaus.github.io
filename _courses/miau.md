@@ -16,7 +16,7 @@ The Master’s Degree in Advanced Infographics is a postgraduate professional pr
 
 Its academic structure offers advanced training in the technical skills necessary to recast the boundaries of these disciplines, while fostering critical thought in the context of design speculation.
 
-The course is intended for qualified architects, engineers, artists or designers who have completed their bachelor´s degree or equal level certificate. The program consists of 300 hours (30 ECTS) from January 2019 to June 2019, Monday through Thursday, every afternoon (15.45 to 21.00). During this time, it is recommended a full-time dedication in order to develope and complete practical work
+The course is intended for qualified architects, engineers, artists or designers who have completed their bachelor´s degree or equal level certificate. The program consists of 300 hours (30 ECTS) from January 2020 to June 2020, Monday through Thursday, every afternoon (15.45 to 21.00). During this time, it is recommended a full-time dedication in order to develope and complete practical work
 </div>
 
 # Program
@@ -122,7 +122,7 @@ Digital Project Laboratories. Workshops integrating all the knowledge and skills
 {: .section #application}
 ![](https://farm2.staticflickr.com/1953/45039241304_c8eb0c0c2e_o_d.jpg)
 
-The application period for 2019 is open. If you wish to apply, please, send your CV and portfolio, to [hey@miauhaus.org](mailto:hey@miauhaus.org). The academic committee will evaluate your application and we will contact you. Application period is open until 1st December.
+The application period for 2020 is open. If you wish to apply, please, send your CV and portfolio, to [hey@miauhaus.org](mailto:hey@miauhaus.org). The academic committee will evaluate your application and we will contact you. Application period is open until 1st December.
 
 We also arrange meetings with people interested in our master. If you wish to meet us send an email to [hey@miauhaus.org](mailto:hey@miauhaus.org)
 
