@@ -1,18 +1,18 @@
 ---
 layout: course
 title: miau
-description: Master in Computational design
+description: Postgraduate Program in Advanced Tools for Architecture and Computational Design
 thumbnail: assets/miau_logo.svg
 author: miauhaus
 language: en
 date: 2018-10-01 00:00
 sections: [ master, program, goals, calendar, application ]
 ---
-# Postgraduate Program in Advanced Infographics
+# Postgraduate Program in Advanced Tools for Architecture and Computational Design
 {: .section #master}
 ![](https://farm2.staticflickr.com/1924/44691545865_6ff94988d6_o_d.jpg)
 <div class="two-col">
-The Master’s Degree in Advanced Infographics is a postgraduate professional program at the convergence of technology, architecture, art and design presented by Universidad Politécnica de Madrid.
+The Postgraduate’s Degree in Advanced Tools for Architecture and Computational Design a professional program at the convergence of technology, architecture, art and design presented by Universidad Politécnica de Madrid.
 
 Its academic structure offers advanced training in the technical skills necessary to recast the boundaries of these disciplines, while fostering critical thought in the context of design speculation.
 
@@ -124,5 +124,5 @@ Digital Project Laboratories. Workshops integrating all the knowledge and skills
 
 The application period for 2020 is open. If you wish to apply, please, send your CV and portfolio, to [hey@miauhaus.org](mailto:hey@miauhaus.org). The academic committee will evaluate your application and we will contact you. Application period is open until 1st December.
 
-We also arrange meetings with people interested in our master. If you wish to meet us send an email to [hey@miauhaus.org](mailto:hey@miauhaus.org)
+We also arrange meetings with people interested in our course. If you wish to meet us send an email to [hey@miauhaus.org](mailto:hey@miauhaus.org)
 
