@@ -2,14 +2,14 @@
 layout: subject
 title: Digital Morphologies
 course: miau
-code: A02
+code: DGM
 description: Computational Geometry and Computational Complexity.
 
 thumbnail: https://farm5.staticflickr.com/4900/47000584761_4e2d8c572e_b.jpg
 language: en
 date: 2018-10-01 00:00
 ---
-## a.02 Digital Morphologies
+## DGM Digital Morphologies
 Number of Sessions/Duration 9 (22.5 hours)
 
 ### Seminar’s description:
@@ -21,9 +21,6 @@ and parametrical tools. During this seminar, dicussions about some of the curren
 related to these tools will be held. The main branches of computational geometry are:
 Combinatorial computational geometry, also called algorithmic geometry, which deals with geometric objects as discrete entities
 Numerical computational geometry, also called machine geometry, computer-aided geometric design (CAGD), or geometric modeling, which deals primarily with representing real-world objects in forms suitable for computer computations in CAD/CAM systems.
-
-### Professors:
-Sergio Del Castillo Tello, Pablo Gómez, Miauhaus Team
 
 ### Milestone:
 Computational Forms Catalogue: A Design Space. An adaptative procedural environment open to student’s speculative proposals
