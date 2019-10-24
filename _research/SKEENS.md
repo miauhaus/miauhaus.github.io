@@ -2,7 +2,7 @@
 layout: research
 title: MFP - SKEENS
 description: Embodied interfaces for digital identities
-thumbnail: https://i.postimg.cc/GpRCtvcJ/Screen-Shot-2018-10-21-at-16-15-34.png
+thumbnail: https://live.staticflickr.com/65535/48953974592_45461af277_o_d.png
 author: Elisa Cuesta
 language: en
 date: 2019-10-06 00:00
