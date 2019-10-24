@@ -9,7 +9,7 @@ author: miauhaus
 language: en
 date: 2018-10-01 00:00
 ---
-## a.11 Algorithms, Data and Processes
+## ADP Algorithms, Data and Processes
 Number of Sessions/Duration 24 (60 hours)
 
 ### Seminar’s description:

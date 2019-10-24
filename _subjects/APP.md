@@ -9,7 +9,7 @@ author: miauhaus
 language: en
 date: 2018-10-01 00:00
 ---
-## a.05 Advanced Parametrization of Prototypes
+## APP Advanced Parametrization of Prototypes
 Number of Sessions/Duration 12 (30 hours)
 
 ### Seminar’s description:

@@ -9,7 +9,7 @@ author: miauhaus
 language: en
 date: 2018-10-01 00:00
 ---
-## a.00 Fundamentals
+## DB Fundamentals
 Number of Sessions/Duration 3 (10 hours)
 
 ### Seminar’s description:

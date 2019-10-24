@@ -9,7 +9,7 @@ author: miauhaus
 language: en
 date: 2018-10-01 00:00
 ---
-## a.13 Motion Desing
+## MD Motion Desing
 Number of Sessions/Duration 22 (55 hours)
 
 ### Seminar’s description:

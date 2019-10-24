@@ -9,7 +9,7 @@ thumbnail: https://farm5.staticflickr.com/4816/47000834531_7d8b2415cf_b.jpg
 author: miauhaus
 language: en
 ---
-## a.03 Digital Systems
+## DGS Digital Systems
 Number of Sessions/Duration 12 (30 hours)
 
 ### Seminar’s description:

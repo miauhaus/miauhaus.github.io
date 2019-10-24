@@ -9,7 +9,7 @@ author: miauhaus
 language: en
 date: 2018-10-01 00:00
 ---
-## a.01 Advanced Workflows
+## WF Advanced Workflows
 Number of Sessions/Duration 12 (30 hours)
 
 ### Seminar’s description:

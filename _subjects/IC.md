@@ -9,7 +9,7 @@ author: miauhaus
 language: en
 date: 2019-02-04 00:00
 ---
-## a.07 Advanced image composition
+## IC Image Compositing
 Number of Sessions/Duration 2 (5 hours)
 
 ### Seminar’s description:

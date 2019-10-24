@@ -9,7 +9,7 @@ author: miauhaus
 language: en
 date: 2019-10-06 00:00
 ---
-## a.XX MFP Final Project
+## MFP Final Project
 Number of sessions:12 / 2.5 hours per session (30 hours)
 
 ### Seminar’s description:

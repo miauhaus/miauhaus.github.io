@@ -9,7 +9,7 @@ author: miauhaus
 language: en
 date: 2018-10-01 00:00
 ---
-## a.16 Virtual Reality. Space design.
+## VR Virtual Reality. Space design.
 Number of Sessions/Duration 10 (25 hours)
 
 ### Seminar’s description:

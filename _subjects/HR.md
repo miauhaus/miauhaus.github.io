@@ -9,7 +9,7 @@ author: miauhaus
 language: en
 date: 2018-10-01 00:00
 ---
-## a.09 Hyperrealism.
+## HR Hyperrealism.
 Number of Sessions/Duration 10 (25 hours)
 
 ### Seminar’s description:

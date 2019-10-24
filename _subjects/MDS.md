@@ -9,7 +9,7 @@ author: miauhaus
 language: en
 date: 2018-10-01 00:00
 ---
-## a.06 Multidisciplinary Design Systems
+## MDS Multidisciplinary Design Systems
 Number of Sessions/Duration 12 (30 hours)
 
 ### Seminar’s description:
