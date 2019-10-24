@@ -3,11 +3,13 @@ layout: research
 title: MFP-SEI
 description: Research on an Interdimensional Evolutive emergent System based on topological behaviour
 thumbnail: https://i.postimg.cc/GpRCtvcJ/Screen-Shot-2018-10-21-at-16-15-34.png
-# https://live.staticflickr.com/65535/48846425098_b1f4b0e945_b.jpg
 author: Francesc Sòria Castellet
 language: en
 date: 2019-10-06 00:00
 ---
+{::comment}
+https://live.staticflickr.com/65535/48846425098_b1f4b0e945_b.jpg
+{:/comment}
 # An Interdimensional Evolutive System
 
 ## P0.00 Definition
