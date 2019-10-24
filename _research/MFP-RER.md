@@ -2,12 +2,11 @@
 layout: research
 title: MFP-RER Algorithmic Processes of Destruction and Reconstruction of Ruins
 description: Investigación y catalogación de Procesos algorítmicos de destrucción y reconstrucción de ruinas basados en topoestructuralización (Algorithmic processes of destruction and reconstruction of ruins based on topostructuralization)
-thumbnail: https://live.staticflickr.com/65535/48846425018_65580d8c23_b.jpg
+thumbnail: https://i.postimg.cc/GpRCtvcJ/Screen-Shot-2018-10-21-at-16-15-34.png
+# https://live.staticflickr.com/65535/48846425018_65580d8c23_b.jpg
 author: Leticia Izquierdo García
 language: en
 date: 2019-10-06 00:00
-link: << optional >>
-sections: [] << optional >>
 ---
 ## P0.00 Definition
 Una metodología para la reconstrucción topológica de vacíos mediante sistemas de micro-entramado estructural. 
@@ -114,23 +113,23 @@ Las ventajas se basarían en: optimización del material, adaptabilidad a las es
 existentes, posibilidades de incorporar instalaciones transversales (conductos, plenum, etc) y
 la transparencia que una estructura en celosía confiere.
 
-![imagealt](https://live.staticflickr.com/65535/48847026782_49e5cd24fc_b.jpg)
+![](https://live.staticflickr.com/65535/48847026782_49e5cd24fc_b.jpg)
 
-![imagealt](https://live.staticflickr.com/65535/48846532978_02fec2a0d7_b.jpg)
+![](https://live.staticflickr.com/65535/48846532978_02fec2a0d7_b.jpg)
 
-![imagealt](https://live.staticflickr.com/65535/48846588808_6aaa1b6351_b.jpg)
+![](https://live.staticflickr.com/65535/48846588808_6aaa1b6351_b.jpg)
 
-![imagealt](https://live.staticflickr.com/65535/48846532813_8ae8354f75_b.jpg)
+![](https://live.staticflickr.com/65535/48846532813_8ae8354f75_b.jpg)
 
-![imagealt](https://live.staticflickr.com/65535/48846891531_c5ae8ecb00_b.jpg)
+![](https://live.staticflickr.com/65535/48846891531_c5ae8ecb00_b.jpg)
 
-![imagealt](https://live.staticflickr.com/65535/48846532483_0a37eca0f1_b.jpg)
+![](https://live.staticflickr.com/65535/48846532483_0a37eca0f1_b.jpg)
 
-![imagealt](https://live.staticflickr.com/65535/48846532403_be9ecd0c67_b.jpg)
+![](https://live.staticflickr.com/65535/48846532403_be9ecd0c67_b.jpg)
 
-![imagealt](https://live.staticflickr.com/65535/48846891266_e1233616c4_b.jpg)
+![](https://live.staticflickr.com/65535/48846891266_e1233616c4_b.jpg)
 
-![imagealt](https://live.staticflickr.com/65535/48846958368_764d715844_b.jpg)
+![](https://live.staticflickr.com/65535/48846958368_764d715844_b.jpg)
 
 
 ### R2.00 Bibliography 

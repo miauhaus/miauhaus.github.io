@@ -2,12 +2,11 @@
 layout: research
 title: MFP-SEI An Interdimensional Evolutive System
 description: Research on an Interdimensional Evolutive emergent System based on topological behaviour
-thumbnail: https://live.staticflickr.com/65535/48846425098_b1f4b0e945_b.jpg
+thumbnail: https://i.postimg.cc/GpRCtvcJ/Screen-Shot-2018-10-21-at-16-15-34.png
+# https://live.staticflickr.com/65535/48846425098_b1f4b0e945_b.jpg
 author: Francesc Sòria Castellet
 language: en
 date: 2019-10-06 00:00
-link: << optional >>
-sections: [] << optional >>
 ---
 ## P0.00 Definition
 Interdimensional evolutive systems. Evolutive methodology exploration exercise. 
@@ -41,11 +40,11 @@ Daniel Davies. Modelled on Software Engineering: Flexible Parametric Models in t
 One of the main problems encountered in the project is in this concept of latency. When dealing with stochastic processes, the delay on the generation of structures based on the previous existence and behaviour of others, creates situations that are both hard to develop computationally and control manually, even if they are algorithmically accounted for. What this errors mean for the project is that certain structures only work while the algorythm is working as a standalone, but either fails to adequate its resulting geometry to the needs of the following stage, or if it does adequate them properly, the amount of computation power needed to progress in the scheme in a time that is properly informative for the viewer is much too much. However, this range of errors is also considered as a metaphor, a proto-synthesis, towards the simulation of processes of abiogenesis. It has been observed that in some algorithms, the error range answers to the complexity of the previous information, this would translate, in genesis of life kind of situations, to a non-viable option, finding the possible way to generate a metaphor for life from geometrical conditions seems like a very interesting project indeed. This has added to an interest and a concern that arises when thinking about the algorithms complexity and it’s relation to latency; if problems have been met when scaling up in size and hierarchy during a one way growth process, when the project continues and establishes the recursive relations that will interlink all stages and strata of the project to one another, every bit of complexity from the different entities will be present in every other one. What this calls for is further investigation on several things: more work dedicated to latency reduction and correctness increase, both inside algorithms and in their connections, by better understanding and treating the generative topology of geometrical structures, to better be able to assess how much it costs for a sub-element to become or create another. i.e.: the generation of surfaces from points takes longer to compute than mesh generation.
 Lastly, a possible path of further study that would help the development of the two other conclusive processes. The analysis of the computation times that each phase of the design needs. There are situations in which the computer might be able to reduce the times between two phases to what perceptually might be immediate, artificial latency processes might have to be designed and added to the code for this immediacies to be elongated and thus communicated properly. Comparing the times in which phase transitions of the phanarchical and natural processes are computationally and cognitively processed might bring light into how to design and metaphorize the discourse that wants to be communicated. Dealing with organically and empathetically communicating processes that are faster for human cognition than for computers to compute, is a harder task that will have to be looked onto.
 
-![imagealt](https://live.staticflickr.com/65535/48847514862_a6df04aa56_b.jpg)
+![](https://live.staticflickr.com/65535/48847514862_a6df04aa56_b.jpg)
 
-![imagealt](https://live.staticflickr.com/65535/48847320656_2364d23bff_b.jpg)
+![](https://live.staticflickr.com/65535/48847320656_2364d23bff_b.jpg)
 
-![imagealt](https://live.staticflickr.com/65535/48847518317_4cd28fcb61_b.jpg)
+![](https://live.staticflickr.com/65535/48847518317_4cd28fcb61_b.jpg)
 
 ### R2.00 Bibliography 
 [1] Brand, F. S., and K. Jax. 2007. Focusing the meaning(s) of resilience: resilience as a descriptive concept and a boundary object. Ecology and Society 12(1): 23
