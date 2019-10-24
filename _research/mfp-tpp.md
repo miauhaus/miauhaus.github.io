@@ -1,12 +1,14 @@
 ---
 layout: research
-title: MFP-TPP 
+title: MFP-TPP
 description: Research on an Thermodynamic shapegrammar rules applied to architecture
 thumbnail: https://i.postimg.cc/GpRCtvcJ/Screen-Shot-2018-10-21-at-16-15-34.png
-# https://flic.kr/p/2hqXUkP
 author: Pedro Cortés Nieves
 language: en
 ---
+{::comment}
+https://flic.kr/p/2hqXUkP
+{:/comment}
 # Thermodynamic protocol for action in an architectural project
 
 ## P0.00 Definition
