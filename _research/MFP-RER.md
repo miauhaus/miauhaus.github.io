@@ -1,6 +1,6 @@
 ---
 layout: research
-title: MFP-RER 
+title: MFP-RER
 description: Investigación y catalogación de Procesos algorítmicos de destrucción y reconstrucción de ruinas basados en topoestructuralización (Algorithmic processes of destruction and reconstruction of ruins based on topostructuralization)
 thumbnail: https://i.postimg.cc/GpRCtvcJ/Screen-Shot-2018-10-21-at-16-15-34.png
 author: Leticia Izquierdo García
