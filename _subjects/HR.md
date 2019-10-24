@@ -2,7 +2,7 @@
 layout: subject
 title: Hyperrealism
 course: miau
-code: A09
+code: HR
 description: Seeking fot the realness. Understanding the retoric of the real, allows us to get into de realnes as a creative material, throught advanced CG technics. Approaching the realness in image making not as a goal itself but as a research field. 
 thumbnail: https://farm8.staticflickr.com/7918/32055015607_f38d70fd7b_o_d.jpg
 author: miauhaus

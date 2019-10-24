@@ -1,7 +1,7 @@
 ---
 layout: subject
 course: miau
-code: A00
+code: DB
 title: Funtamentals
 description: Basic principles on digital tools and elaboration of personalized professional workflows
 thumbnail: https://farm5.staticflickr.com/4809/32053702657_af4976ba37_b.jpg

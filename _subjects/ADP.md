@@ -2,7 +2,7 @@
 layout: subject
 title: Algorithms, Data and Processes
 course: miau
-code: A11
+code: ADP
 description: Programming basics. Introduction to opensource development environments
 thumbnail: https://farm8.staticflickr.com/7801/46104537325_8303673b08_o.png
 author: miauhaus

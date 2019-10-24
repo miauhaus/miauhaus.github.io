@@ -2,7 +2,7 @@
 layout: subject
 title: Virtual Reality. Space design.
 course: miau
-code: A16
+code: VR
 description: Space exploration for a digital nature. Virtual reality experiences allows us to experiment an inmerssive digital experience. Rather than replicating or transforming condition of the real world, the seminar will approach the possibility of a genuine digital immersive experience.
 thumbnail: https://farm8.staticflickr.com/7854/32057046447_7e2fac1e21_o_d.jpg
 author: miauhaus

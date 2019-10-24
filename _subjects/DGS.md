@@ -2,7 +2,7 @@
 layout: subject
 title: Digital Systems
 course: miau
-code: A03
+code: DGS
 description: Geometric automation based on the assembly, sets and aggregation of related components conforming complex entities. Case studies of procedural routines, cellular automata, emerging environments and multiagent systems. Advanced Parametrization of Prototypes
 date: 2018-10-01 00:00
 thumbnail: https://farm5.staticflickr.com/4816/47000834531_7d8b2415cf_b.jpg

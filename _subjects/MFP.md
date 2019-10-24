@@ -2,7 +2,7 @@
 layout: subject
 title: MFP Final Project
 course: miau
-code: AXX
+code: MFP
 description: Create a Practical or Theoretical Computational Design Project
 thumbnail: https://live.staticflickr.com/65535/48846783246_bd8f7d3968_b.jpg
 author: miauhaus

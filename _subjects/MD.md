@@ -2,7 +2,7 @@
 layout: subject
 title: Motion design
 course: miau
-code: A13
+code: MD
 description: Designing and visualizing processes, change, evolution, transformation. Creating illusions of life animation. Abstract living spaces. Visual story-telling. Movement thinking. Dinamic graphic art. Rigging motion systems
 thumbnail: 
 author: miauhaus
