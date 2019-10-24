@@ -42,7 +42,7 @@ miauhaus qualify us to combine diverse visions in collaborative multi platform e
 # Contact
 {:.section}
 
-<iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJHelYbTsoQg0RIzDmbCkoo0A&key=AIzaSyADUM0rFRQDeLYAR6L1wYTuulPLeUCNLR4" allowfullscreen></iframe>
+<iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJHelYbTsoQg0RIzDmbCkoo0A" allowfullscreen></iframe>
 
 ## Get in touch
 {:.centered}
