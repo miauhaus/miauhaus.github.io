@@ -144,4 +144,4 @@ la transparencia que una estructura en celosía confiere.
 [5] Arquitectura biomórfica. Diseño orgánico y construcción. Asterios Agkathidis. pp. 131-143. Barcelona: Promopress, 2016 
 [6] Diseño, construcción y caracterización de un material auxético. Andrés Sierra Soladulce. UPM Ingenieros Industriales. Julio 2017, Madrid.
 [7] Aplicaciones de las propiedades auxéticas en la arquitectura. MªDolores Álvarez Felipe. Tesis doctoral UPM. 2017, Madrid. http://oa.upm.es/48454/1/MARIA_DOLORES_ALVAREZ_ELIPE.pdf
-[8] MIT Self Assembly Lab. (2018) Active Auxetics, Athina Papadopoulou, Hannah Lienhard, Schendy Kernizan, Jared Laucks & Skylar Tibbits. Disponible en: https://selfassemblylab.mit.edu/active-auxetics/
+[8] MIT Self Assembly Lab. (2018) Active Auxetics, Athina Papadopoulou, Hannah Lienhard, Schendy Kernizan, Jared Laucks & Skylar Tibbits. Disponible en: [selfassemblylab](https://selfassemblylab.mit.edu/active-auxetics/)
