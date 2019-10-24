@@ -1,6 +1,6 @@
 ---
 layout: default
-sections: [ about, academics, contact ]
+sections: [ about, academics, research, contact ]
 ---
 # News
 {:.section}
@@ -22,25 +22,19 @@ miauhaus is a creative and generative environment. About infographics as an algo
 miauhaus qualify us to combine diverse visions in collaborative multi platform environments, giving value to the interconnection that must be at the process’ service. This process is building itself, is dynamic, always open, able to dialogue with the most basic analogue methods and also sustained in state-of-the-art tech
 </div>
 
-{::comment}
-# Research
-{:.section}
-{% include researchloop.html %}
-{:/comment}
-
 # Academics
-{:.section}
+{:.section #academics}
 {% include coursesloop.html %}
 
 > Miauhaus offers students versatility in order to pursue and achieve their personal exploration, criticising the limits of architecture
 
 # Research
-{:.section}
+{:.section #research}
 {% include researchloop.html %}
 
 
 # Contact
-{:.section}
+{:.section #contact}
 
 <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJHelYbTsoQg0RIzDmbCkoo0A&key=AIzaSyByrBxO8rN9zGjlQxr6Mdyngj5W0MF18Bk" allowfullscreen></iframe>
 

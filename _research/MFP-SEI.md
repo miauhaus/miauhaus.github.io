@@ -1,6 +1,6 @@
 ---
 layout: research
-title: MFP-SEI An Interdimensional Evolutive System
+title: MFP-SEI
 description: Research on an Interdimensional Evolutive emergent System based on topological behaviour
 thumbnail: https://i.postimg.cc/GpRCtvcJ/Screen-Shot-2018-10-21-at-16-15-34.png
 # https://live.staticflickr.com/65535/48846425098_b1f4b0e945_b.jpg
@@ -8,6 +8,8 @@ author: Francesc Sòria Castellet
 language: en
 date: 2019-10-06 00:00
 ---
+# An Interdimensional Evolutive System
+
 ## P0.00 Definition
 Interdimensional evolutive systems. Evolutive methodology exploration exercise. 
 Based on the panarchical scheme, a set of algorithms that represent behaviours, mechanisms and metabolisms are here presented and intertwined. From more basic to more complex entities and their concatenation in an evolutive system, a whole is created where each one depends on the other.

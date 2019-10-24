@@ -1,6 +1,6 @@
 ---
 layout: research
-title: MFP-RER Algorithmic Processes of Destruction and Reconstruction of Ruins
+title: MFP-RER 
 description: Investigación y catalogación de Procesos algorítmicos de destrucción y reconstrucción de ruinas basados en topoestructuralización (Algorithmic processes of destruction and reconstruction of ruins based on topostructuralization)
 thumbnail: https://i.postimg.cc/GpRCtvcJ/Screen-Shot-2018-10-21-at-16-15-34.png
 # https://live.staticflickr.com/65535/48846425018_65580d8c23_b.jpg
@@ -8,6 +8,8 @@ author: Leticia Izquierdo García
 language: en
 date: 2019-10-06 00:00
 ---
+# Algorithmic Processes of Destruction and Reconstruction of Ruins
+
 ## P0.00 Definition
 Una metodología para la reconstrucción topológica de vacíos mediante sistemas de micro-entramado estructural. 
 Esta investigación comienza en el estudio de algoritmos de destrucción y los subsiguientes algoritmos de reconstrucción en realidades edificatorias parcialmente dañadas. 
